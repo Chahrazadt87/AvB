@@ -9,6 +9,7 @@ start=$(date +%s)
 
 cd $HOME
 mkdir -p chahrazad
+export SENSITIVITY="7.5"
 
 # First pass
 INPUT="${HOME}/chahrazad/2090.fa"
@@ -26,7 +27,6 @@ mkdir -p $UNIPROT_OUTPUT
 export INPUT_FASTA=$INPUT
 export TARGET_DB="GTDB_214"
 export OUTPUT_FOLDER=$GTDB_OUTPUT
-export SENSITIVITY="7.5"
 bash mmseqs_db_search.sh
 
 export INPUT_FASTA="${GTDB_OUTPUT}/results.fasta"
@@ -37,7 +37,6 @@ bash map_sequences_to_db.sh
 export INPUT_FASTA=$INPUT
 export TARGET_DB="UniProtKB"
 export OUTPUT_FOLDER=$UNIPROT_OUTPUT
-export SENSITIVITY="7.5"
 bash mmseqs_db_search.sh
 
 export INPUT_FASTA="${UNIPROT_OUTPUT}/results.fasta"
