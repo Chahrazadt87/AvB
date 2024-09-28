@@ -15,7 +15,7 @@
 set -e
 start=$(date +%s%N)
 
-source helper.sh
+source tree_helper.sh
 
 ##
 ### Arguments
