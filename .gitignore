@@ -79,14 +79,3 @@ __pycache__/
 .iml
 *.sublime-workspace
 .vscode
-
-# Tensorflow
-checkpoints/
-.ipynb_checkpoints
-summary_log/
-checkpoint
-*.ckpt.*
-saved_models/
-saved_models_*/
-hyperparameters/
-hyperband_logs/
