@@ -8,8 +8,6 @@
 # - trimAl:   http://trimal.cgenomics.org/
 # - IQ-TREE:  http://www.iqtree.org/
 #
-# Optionally, if passing a directory of PDB as input instead of a fasta file:
-# - pdb-tools: http://www.bonvinlab.org/pdb-tools/
 ######################################################################################
 
 set -e
