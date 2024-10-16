@@ -1,0 +1,30 @@
+id,gtdb_id,db_proka_id,uniprot_id,domain,gtdb_phylum,gtdb_class,gtdb_order,gtdb_family,gtdb_genus,gtdb_species,ncbi_phylum,ncbi_class,ncbi_order,ncbi_family,ncbi_genus,ncbi_species,tstart,tend,evalue,bits
+A0A1H7H3G6,,,A0A1H7H3G6,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax larsenii,1,290,5.7039999999999994e-188,590
+M0GTD3,NZ_AOLI01000034.1_29,WP_007545272.1@GCF_000336955.1,M0GTD3,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax larsenii,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax larsenii,1,290,7.391e-185,581
+NZ_AOLK01000012.1_176,NZ_AOLK01000012.1_176,,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax elongans,,,,,,,1,289,5.302999999999998e-175,552
+M0HUC4,,,M0HUC4,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax elongans,1,272,1.169e-165,526
+M0I6U3,NZ_AOLN01000018.1_554,,M0I6U3,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax mucosum,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax mucosum,1,290,2.454e-141,455
+I3R2Q4,NC_017941.2_785,WP_004057439.1@GCF_000306765.2,I3R2Q4,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax mediterranei,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax mediterranei,1,290,3.791e-139,449
+A0A371M0N6,,,A0A371M0N6,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. Atlit-4N,1,290,4.212e-136,440
+A0A871BD94,,,A0A871BD94,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax gibbonsii,1,290,4.212e-136,440
+A0A371N295,NZ_AOLJ01000011.1_106,WP_004972615.1@GCF_000336775.1,A0A371N295,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax gibbonsii,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. Atlit-6N,1,290,5.312e-136,440
+A0A371MMW4,,,A0A371MMW4,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. Atlit-12N,1,290,7.909e-136,439
+A0A0K1IR80,,,A0A0K1IR80,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax gibbonsii,1,290,1.0839999999999999e-135,439
+A0A371LK82,NZ_AOLG01000009.1_386,WP_008092295.1@GCF_000336815.1,A0A371LK82,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax prahovense,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. Atlit-16N,1,290,6.602e-135,437
+WP_058828042.1@GCF_001482285.1,NZ_LOEP01000032.1_74,WP_058828042.1@GCF_001482285.1,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax sp001482285,,,,,,,1,290,4.818e-135,437
+A0A2P4NW45,NZ_LOPW02000001.1_77,WP_058565839.1@GCF_001469875.2,A0A2P4NW45,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax marisrubri,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax marisrubri,1,290,1.698e-134,436
+A0A371LCK8,,,A0A371LCK8,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. Atlit-19N,1,290,4.747e-134,434
+A0A558G7K0,,,A0A558G7K0,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax volcanii,1,290,4.398e-130,423
+A0A6C0UX32,,,A0A6C0UX32,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax alexandrinus,1,290,4.398e-130,423
+A0A498EDQ7,,,A0A498EDQ7,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. Atlit-109R,1,290,6.026e-130,422
+L5NX43,,,L5NX43,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. BAB-2207,1,290,6.026e-130,422
+A0A371L4M6,,,A0A371L4M6,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. Atlit-47N,1,290,6.026e-130,422
+A0A371KTK3,,,A0A371KTK3,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. Atlit-24N,1,290,6.026e-130,422
+A0A371KGK7,,,A0A371KGK7,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. Atlit-48N,1,290,6.026e-130,422
+A0A842PMT6,,,A0A842PMT6,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. AS1,1,290,6.026e-130,422
+M0GJN3,,,M0GJN3,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax lucentense,1,290,6.026e-130,422
+A0A498EH53,,,A0A498EH53,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. Atlit-105R,1,290,6.026e-130,422
+M0G1X4,,,M0G1X4,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. ATCC BAA-645,1,290,4.953e-128,417
+A0A0D6JRZ7,NZ_CSTE01000002.1_1319,WP_089778894.1@GCF_001368915.1,A0A0D6JRZ7,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax massiliensis,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax massiliensis,1,290,6.246000000000001e-128,417
+M0FRY2,,,M0FRY2,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. ATCC BAA-644,1,290,4.953e-128,417
+M0FJT4,,,M0FJT4,Archaea,,,,,,,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. ATCC BAA-646,1,290,4.953e-128,417
