@@ -1,0 +1,14 @@
+LABELS
+SEPARATOR COMMA
+DATA
+RS_GCF_030166655.1,Pontibacillus chungwhensis [GCF_030166655.1]
+RS_GCF_000770675.1,Pontibacillus chungwhensis BH030062 [GCF_000770675.1]
+RS_GCF_014642405.1,Pontibacillus salipaludis [GCF_014642405.1]
+RS_GCF_000425225.1,Pontibacillus marinus BH030004 = DSM 16465 [GCF_000425225.1]
+Pontibacillus_SL1,Pontibacillus_SL1
+Pontibacillus_SP9-4,Pontibacillus_SP9-4
+RS_GCF_009858175.1,Pontibacillus sp. HMF3514 [GCF_009858175.1]
+RS_GCF_000775615.1,Pontibacillus litoralis JSM 072002 [GCF_000775615.1]
+RS_GCF_009856295.1,Pontibacillus yanchengensis [GCF_009856295.1]
+RS_GCF_000770635.1,Pontibacillus yanchengensis Y32 [GCF_000770635.1]
+Pontibacillus_PV1,Pontibacillus_PV1

@@ -1,0 +1,67 @@
+GTDBTK_DATA_PATH=/rds/general/project/lms-warnecke-raw/live/gtdbtk-2.4.0
+[2024-11-07 18:44:47] INFO: GTDB-Tk v2.4.0
+[2024-11-07 18:44:47] INFO: gtdbtk de_novo_wf --genome_dir /rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/Pontibacillus/ --out_dir /rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/ --bacteria --outgroup_taxon f__Halobacillaceae --taxa_filter g__Pontibacillus -x fna --cpus 64 --prefix Pontibacillus --tmpdir /var/tmp/pbs.216035.pbs
+[2024-11-07 18:44:47] INFO: Using GTDB-Tk reference data version r220: /rds/general/project/lms-warnecke-raw/live/gtdbtk-2.4.0
+[2024-11-07 18:44:47] INFO: Identifying markers in 3 genomes with 64 threads.
+[2024-11-07 18:44:47] TASK: Running Prodigal V2.6.3 to identify genes.
+[2024-11-07 18:45:08] INFO: Completed 3 genomes in 20.95 seconds (6.98 seconds/genome).
+[2024-11-07 18:45:08] TASK: Identifying TIGRFAM protein families.
+[2024-11-07 18:45:14] INFO: Completed 3 genomes in 5.73 seconds (1.91 seconds/genome).
+[2024-11-07 18:45:14] TASK: Identifying Pfam protein families.
+[2024-11-07 18:45:15] INFO: Completed 3 genomes in 0.57 seconds (5.23 genomes/second).
+[2024-11-07 18:45:15] INFO: Annotations done using HMMER 3.4 (Aug 2023).
+[2024-11-07 18:45:15] TASK: Summarising identified marker genes.
+[2024-11-07 18:45:15] INFO: Completed 3 genomes in 0.13 seconds (23.60 genomes/second).
+[2024-11-07 18:45:15] INFO: Done.
+[2024-11-07 18:45:18] INFO: Aligning markers in 3 genomes with 64 CPUs.
+[2024-11-07 18:45:19] INFO: Processing 3 genomes identified as bacterial.
+[2024-11-07 18:45:30] INFO: Read concatenated alignment for 107,235 GTDB genomes.
+[2024-11-07 18:45:30] INFO: Filtered 99.95% (107,181/107,235) taxa based on assigned taxonomy, 54 taxa remain.
+[2024-11-07 18:45:30] TASK: Generating concatenated alignment for each marker.
+[2024-11-07 18:45:36] INFO: Completed 3 genomes in 0.03 seconds (94.28 genomes/second).
+[2024-11-07 18:45:37] TASK: Aligning 112 identified markers using hmmalign 3.4 (Aug 2023).
+[2024-11-07 18:45:47] INFO: Completed 112 markers in 1.78 seconds (62.85 markers/second).
+[2024-11-07 18:45:48] TASK: Masking columns of bacterial multiple sequence alignment using canonical mask.
+[2024-11-07 18:45:48] INFO: Completed 57 sequences in 0.15 seconds (390.54 sequences/second).
+[2024-11-07 18:45:48] INFO: Masked bacterial alignment from 41,084 to 5,035 AAs.
+[2024-11-07 18:45:48] INFO: 0 bacterial user genomes have amino acids in <10.0% of columns in filtered MSA.
+[2024-11-07 18:45:48] INFO: Creating concatenated alignment for 57 bacterial GTDB and user genomes.
+[2024-11-07 18:45:48] INFO: Creating concatenated alignment for 3 bacterial user genomes.
+[2024-11-07 18:45:49] INFO: Done.
+[2024-11-07 18:45:49] INFO: Inferring FastTree (WAG, SH support values) using a maximum of 64 CPUs.
+[2024-11-07 18:46:16] INFO: FastTree version: precision
+[2024-11-07 18:46:16] INFO: Done.
+[2024-11-07 18:46:16] INFO: Reading GTDB taxonomy for representative genomes.
+[2024-11-07 18:46:17] INFO: Read taxonomy for 113,104 genomes.
+[2024-11-07 18:46:17] INFO: Identifying genomes from the specified outgroup: f__Halobacillaceae
+[2024-11-07 18:46:17] INFO: Identified 46 outgroup taxa in the tree.
+[2024-11-07 18:46:17] INFO: Identified 11 ingroup taxa in the tree.
+[2024-11-07 18:46:17] INFO: Outgroup is monophyletic.
+[2024-11-07 18:46:17] INFO: Rerooting tree.
+[2024-11-07 18:46:17] INFO: Rerooted tree written to: /rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/infer/intermediate_results/Pontibacillus.bac120.rooted.tree
+[2024-11-07 18:46:17] INFO: Done.
+[2024-11-07 18:46:17] INFO: Reading GTDB taxonomy for representative genomes.
+[2024-11-07 18:46:17] INFO: Read taxonomy for 113,104 genomes.
+[2024-11-07 18:46:17] INFO: Reading tree.
+[2024-11-07 18:46:17] INFO: Removing any previous internal node labels.
+[2024-11-07 18:46:17] INFO: Calculating F-measure statistic for each taxa.
+[2024-11-07 18:46:17] INFO: Calculating taxa within each lineage.
+[2024-11-07 18:46:17] INFO: Processing 1 taxa at Domain rank.
+[2024-11-07 18:46:17] INFO: Processing 1 taxa at Phylum rank.
+[2024-11-07 18:46:17] INFO: Processing 1 taxa at Class rank.
+[2024-11-07 18:46:17] INFO: Processing 1 taxa at Order rank.
+[2024-11-07 18:46:17] INFO: Processing 2 taxa at Family rank.
+[2024-11-07 18:46:17] INFO: Processing 6 taxa at Genus rank.
+[2024-11-07 18:46:17] INFO: Processing 54 taxa at Species rank.
+[2024-11-07 18:46:17] WARNING: There are 2 taxa with multiple placements of equal quality.
+[2024-11-07 18:46:17] WARNING: These were resolved by placing the label at the most terminal position.
+[2024-11-07 18:46:17] WARNING: Ideally, taxonomic assignment of all genomes should be established before tree decoration.
+[2024-11-07 18:46:17] INFO: Placing labels on tree.
+[2024-11-07 18:46:17] INFO: Writing out statistics for taxa.
+[2024-11-07 18:46:17] INFO: Writing out inferred taxonomy for each genome.
+[2024-11-07 18:46:17] INFO: Writing out decorated tree.
+[2024-11-07 18:46:17] INFO: Done.
+[2024-11-07 18:46:17] INFO: Done.
+[2024-11-07 18:46:17] INFO: Removing intermediate files.
+[2024-11-07 18:46:17] INFO: Intermediate files removed.
+[2024-11-07 18:46:17] INFO: Done.

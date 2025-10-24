@@ -1,0 +1,67 @@
+Taxon	No. Expected in Tree	F-measure	Precision	Recall	No. Genomes from Taxon	No. Genome In Lineage	Rogue out	Rogue in
+d__Bacteria	54	1.0000	1.0000	1.0000	54	54		
+p__Bacillota	54	1.0000	1.0000	1.0000	54	54		
+c__Bacilli	54	1.0000	1.0000	1.0000	54	54		
+o__Bacillales_D	54	1.0000	1.0000	1.0000	54	54		
+f__BH030062	8	1.0000	1.0000	1.0000	8	8		
+f__Halobacillaceae	46	1.0000	1.0000	1.0000	46	46		
+g__CUG-92003	1	1.0000	1.0000	1.0000	1	1		
+g__Halobacillus	24	1.0000	1.0000	1.0000	24	24		
+g__Halobacillus_A	12	1.0000	1.0000	1.0000	12	12		
+g__Pontibacillus	8	1.0000	1.0000	1.0000	8	8		
+g__Salimicrobium	4	1.0000	1.0000	1.0000	4	4		
+g__Thalassobacillus	5	1.0000	1.0000	1.0000	5	5		
+s__CUG-92003 sp013618635	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus aidingensis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus alkaliphilus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus dabanensis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus faecis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus fulvus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus halophilus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus halophilus_A	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus karajensis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus kuroshimensis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus litoralis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus litoralis_A	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus litoralis_B	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus litoralis_C	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus litoralis_D	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus litoralis_E	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus litoralis_F	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus locisalis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus mangrovi	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus salinus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus sp000786645	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus sp001592845	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus sp019599545	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus sp022919095	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus yeomjeoni	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A andaensis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A campisalis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A hunanensis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A ihumii	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A massiliensis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A naozhouensis	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A sp022919835	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A sp022921115	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A sp024189295	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A sp024189315	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A sp900240285	1	1.0000	1.0000	1.0000	1	1		
+s__Halobacillus_A sp902809865	1	1.0000	1.0000	1.0000	1	1		
+s__Pontibacillus chungwhensis	1	1.0000	1.0000	1.0000	1	1		
+s__Pontibacillus litoralis	1	1.0000	1.0000	1.0000	1	1		
+s__Pontibacillus marinus	1	1.0000	1.0000	1.0000	1	1		
+s__Pontibacillus salipaludis	1	1.0000	1.0000	1.0000	1	1		
+s__Pontibacillus sp009858175	1	1.0000	1.0000	1.0000	1	1		
+s__Pontibacillus sp021129245	1	1.0000	1.0000	1.0000	1	1		
+s__Pontibacillus yanchengensis	1	1.0000	1.0000	1.0000	1	1		
+s__Pontibacillus yanchengensis_A	1	1.0000	1.0000	1.0000	1	1		
+s__Salimicrobium album	1	1.0000	1.0000	1.0000	1	1		
+s__Salimicrobium flavidum	1	1.0000	1.0000	1.0000	1	1		
+s__Salimicrobium halophilum	1	1.0000	1.0000	1.0000	1	1		
+s__Salimicrobium humidisoli	1	1.0000	1.0000	1.0000	1	1		
+s__Thalassobacillus cyri	1	1.0000	1.0000	1.0000	1	1		
+s__Thalassobacillus devorans	1	1.0000	1.0000	1.0000	1	1		
+s__Thalassobacillus devorans_A	1	1.0000	1.0000	1.0000	1	1		
+s__Thalassobacillus devorans_B	1	1.0000	1.0000	1.0000	1	1		
+s__Thalassobacillus pellis	1	1.0000	1.0000	1.0000	1	1		

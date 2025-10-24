@@ -1,0 +1,32 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>1.0:g__Halogranum</name>
+      <branch_length>0.0780498495</branch_length>
+      <clade>
+        <name>RS_GCF_900103715.1</name>
+        <branch_length>0.032119094</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.018613912</branch_length>
+        <confidence type="unknown">1.0</confidence>
+        <clade>
+          <name>RS_GCF_900110465.1</name>
+          <branch_length>0.021979799</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.015388489</branch_length>
+          <confidence type="unknown">1.0</confidence>
+          <clade>
+            <name>Halogranum_CG_2</name>
+            <branch_length>0.012604175</branch_length>
+          </clade>
+          <clade>
+            <name>RS_GCF_900114455.1</name>
+            <branch_length>0.009271043</branch_length>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

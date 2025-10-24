@@ -1,0 +1,83 @@
+LABELS
+SEPARATOR COMMA
+DATA
+GB_GCA_003554605.1,Halorubrum sp. [GCA_003554605.1]
+RS_GCF_900188065.1,Halorubrum vacuolatum [GCF_900188065.1]
+RS_GCF_009806985.1,Halorubrum sp. JWXQ-INN 858 [GCF_009806985.1]
+RS_GCF_017873815.1,Halorubrum alkaliphilum [GCF_017873815.1]
+GB_GCA_000496175.1,uncultured archaeon A07HR67 [GCA_000496175.1]
+GB_GCA_028275105.1,Halorubrum sp. [GCA_028275105.1]
+RS_GCF_024494685.1,Halorubrum rubrum [GCF_024494685.1]
+RS_GCF_001542905.1,Halorubrum aethiopicum [GCF_001542905.1]
+RS_GCF_002252985.1,Halorubrum halodurans [GCF_002252985.1]
+RS_GCF_900182635.1,Halorubrum cibi [GCF_900182635.1]
+RS_GCF_900113615.1,Halorubrum aquaticum [GCF_900113615.1]
+RS_GCF_003287355.1,Halorubrum sp. 48-1-W [GCF_003287355.1]
+RS_GCF_003697845.1,Halobellus captivus [GCF_003697845.1]
+RS_GCF_027257195.1,Halorubrum sp. F4 [GCF_027257195.1]
+RS_GCF_024494655.1,Halorubrum laminariae [GCF_024494655.1]
+RS_GCF_000746205.1,Halorubrum sp. BV1 [GCF_000746205.1]
+RS_GCF_024494575.1,Halorubrum salinum [GCF_024494575.1]
+RS_GCF_003990725.2,Halorubrum sp. PV6 [GCF_003990725.2]
+Halorubrum_E200_4,Halorubrum_E200_4
+Halorubrum_S3_3,Halorubrum_S3_3
+Halorubrum_E301_2,Halorubrum_E301_2
+RS_GCF_000022205.1,Halorubrum lacusprofundi ATCC 49239 [GCF_000022205.1]
+RS_GCF_002727125.1,Halorubrum persicum [GCF_002727125.1]
+Halorubrum_SL5,Halorubrum_SL5
+RS_GCF_000337915.1,Halorubrum saccharovorum DSM 1137 [GCF_000337915.1]
+RS_GCF_000739595.1,Halorubrum halophilum [GCF_000739595.1]
+RS_GCF_004114995.1,Halorubrum amylolyticum [GCF_004114995.1]
+RS_GCF_007671685.1,Halorubrum salsamenti [GCF_007671685.1]
+RS_GCF_002286985.1,Halorubrum salipaludis [GCF_002286985.1]
+RS_GCF_003781945.1,Halorubrum sp. CSM-61 [GCF_003781945.1]
+RS_GCF_000337355.1,Halorubrum kocurii JCM 14978 [GCF_000337355.1]
+RS_GCF_000337375.1,Halorubrum lipolyticum DSM 21995 [GCF_000337375.1]
+GB_GCA_001564205.1,Nanohaloarchaea archaeon PL-Br10_U2g5 [GCA_001564205.1]
+RS_GCF_000336995.1,Halorubrum aidingense JCM 13560 [GCF_000336995.1]
+Halorubrum_SS5_8,Halorubrum_SS5_8
+Halorubrum_CG4,Halorubrum_CG4
+Halorubrum_S5a_2,Halorubrum_S5a_2
+Halorubrum_S5a_4,Halorubrum_S5a_4
+Halorubrum_S1_1,Halorubrum_S1_1
+Halorubrum_S5a_6,Halorubrum_S5a_6
+RS_GCF_003721435.2,Halorubrum sp. CBA1229 [GCF_003721435.2]
+RS_GCF_029889805.1,Halorubrum sp. Boch-26 [GCF_029889805.1]
+RS_GCF_001261915.1,Halorubrum sp. SD626R [GCF_001261915.1]
+RS_GCF_024494565.1,Halorubrum rutilum [GCF_024494565.1]
+RS_GCF_026586675.1,Halorubrum yunnanense [GCF_026586675.1]
+RS_GCF_002252755.1,Halorubrum sp. Hd13 [GCF_002252755.1]
+Halorubrum_GV4,Halorubrum_GV4
+RS_GCF_007671725.1,Halorubrum depositum [GCF_007671725.1]
+RS_GCF_009742825.1,Halorubrum sp. CBA1125 [GCF_009742825.1]
+RS_GCF_004114375.1,Halorubrum sp. BOL3-1 [GCF_004114375.1]
+RS_GCF_901686465.1,Halorubrum sp. DM2 [GCF_901686465.1]
+GB_GCA_003023405.1,Halobacteriales archaeon SW_8_68_21 [GCA_003023405.1]
+RS_GCF_000337075.1,Halorubrum hochstenium ATCC 700873 [GCF_000337075.1]
+RS_GCF_000337415.1,Halorubrum tebenquichense DSM 14210 [GCF_000337415.1]
+RS_GCF_017873555.1,Halorubrum trapanicum [GCF_017873555.1]
+RS_GCF_018623055.1,Halorubrum sp. 2020YC2 [GCF_018623055.1]
+RS_GCF_900111935.1,Halorubrum sodomense [GCF_900111935.1]
+RS_GCF_002355655.1,Halorubrum trapanicum [GCF_002355655.1]
+Halorubrum_GV9,Halorubrum_GV9
+RS_GCF_000337335.1,Halorubrum distributum JCM 10118 [GCF_000337335.1]
+RS_GCF_003666015.1,Halorubrum sp. Atlit-26R [GCF_003666015.1]
+RS_GCF_018228765.1,Halorubrum ruber [GCF_018228765.1]
+RS_GCF_000336875.1,Halorubrum californiense DSM 19288 [GCF_000336875.1]
+Halorubrum_E302_1,Halorubrum_E302_1
+RS_GCF_002114285.1,Halorubrum ezzemoulense DSM 17463 [GCF_002114285.1]
+RS_GCF_000337035.1,Halorubrum coriense DSM 10284 [GCF_000337035.1]
+Halorubrum_E303_2,Halorubrum_E303_2
+RS_GCF_937146585.1,uncultured Halorubrum sp. [GCF_937146585.1]
+RS_GCF_005435165.1,Halorubrum sp. GN11_10-6_MGM [GCF_005435165.1]
+RS_GCF_900102375.1,Halorubrum xinjiangense [GCF_900102375.1]
+Halorubrum_E301_4,Halorubrum_E301_4
+Halorubrum_SS1_3,Halorubrum_SS1_3
+Halorubrum_SS2_6,Halorubrum_SS2_6
+Halorubrum_SS5_7,Halorubrum_SS5_7
+RS_GCF_013267195.1,Halorubrum salinarum [GCF_013267195.1]
+Halorubrum_B2_2,Halorubrum_B2_2
+Halorubrum_SS5_4,Halorubrum_SS5_4
+Halorubrum_E200_3,Halorubrum_E200_3
+Halorubrum_E301_3,Halorubrum_E301_3
+RS_GCF_001280455.1,Halorubrum tropicale [GCF_001280455.1]

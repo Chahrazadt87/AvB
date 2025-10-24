@@ -1,0 +1,151 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>0.999:g__Haloferax</name>
+      <branch_length>0.0649912165</branch_length>
+      <clade>
+        <branch_length>0.024295781</branch_length>
+        <confidence type="unknown">1.0</confidence>
+        <clade>
+          <name>RS_GCF_000336755.1</name>
+          <branch_length>0.004849214</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.002690876</branch_length>
+          <confidence type="unknown">0.997</confidence>
+          <clade>
+            <name>Haloferax_S5a1</name>
+            <branch_length>0.003046193</branch_length>
+          </clade>
+          <clade>
+            <name>RS_GCF_000336955.1</name>
+            <branch_length>0.002132237</branch_length>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.012763166</branch_length>
+        <confidence type="unknown">1.0</confidence>
+        <clade>
+          <branch_length>0.011886847</branch_length>
+          <confidence type="unknown">1.0</confidence>
+          <clade>
+            <branch_length>0.008836182</branch_length>
+            <confidence type="unknown">1.0</confidence>
+            <clade>
+              <name>RS_GCF_000306765.2</name>
+              <branch_length>0.015898157</branch_length>
+            </clade>
+            <clade>
+              <name>RS_GCF_000337815.1</name>
+              <branch_length>0.017297847</branch_length>
+            </clade>
+          </clade>
+          <clade>
+            <branch_length>0.019185109</branch_length>
+            <confidence type="unknown">0.992</confidence>
+            <clade>
+              <branch_length>0.001815818</branch_length>
+              <confidence type="unknown">0.784</confidence>
+              <clade>
+                <name>RS_GCF_000336775.1</name>
+                <branch_length>0.002626307</branch_length>
+              </clade>
+              <clade>
+                <name>RS_GCF_000336815.1</name>
+                <branch_length>0.004299294</branch_length>
+              </clade>
+            </clade>
+            <clade>
+              <branch_length>0.002242833</branch_length>
+              <confidence type="unknown">0.711</confidence>
+              <clade>
+                <name>RS_GCF_001482285.1</name>
+                <branch_length>0.003450319</branch_length>
+              </clade>
+              <clade>
+                <branch_length>0.001520976</branch_length>
+                <confidence type="unknown">1.0</confidence>
+                <clade>
+                  <branch_length>0.001831552</branch_length>
+                  <confidence type="unknown">0.836</confidence>
+                  <clade>
+                    <name>RS_GCF_001469875.2</name>
+                    <branch_length>0.002463049</branch_length>
+                  </clade>
+                  <clade>
+                    <name>RS_GCF_003383095.1</name>
+                    <branch_length>0.00312548</branch_length>
+                  </clade>
+                </clade>
+                <clade>
+                  <branch_length>0.004341426</branch_length>
+                  <clade>
+                    <branch_length>0.002565068</branch_length>
+                    <confidence type="unknown">0.99</confidence>
+                    <clade>
+                      <name>RS_GCF_000337795.1</name>
+                      <branch_length>0.002424087</branch_length>
+                    </clade>
+                    <clade>
+                      <name>RS_GCF_014635105.1</name>
+                      <branch_length>0.002278213</branch_length>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <branch_length>0.002082077</branch_length>
+                    <confidence type="unknown">0.607</confidence>
+                    <clade>
+                      <branch_length>0.007079938</branch_length>
+                      <confidence type="unknown">1.0</confidence>
+                      <clade>
+                        <name>Haloferax_SP10_1</name>
+                        <branch_length>0.000415762</branch_length>
+                      </clade>
+                      <clade>
+                        <name>RS_GCF_000025685.1</name>
+                        <branch_length>0.000103654</branch_length>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>RS_GCF_001368915.1</name>
+                      <branch_length>0.005422781</branch_length>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <branch_length>0.014329901</branch_length>
+          <confidence type="unknown">1.0</confidence>
+          <clade>
+            <branch_length>0.005363019</branch_length>
+            <confidence type="unknown">0.994</confidence>
+            <clade>
+              <name>RS_GCF_009674585.1</name>
+              <branch_length>0.012277634</branch_length>
+            </clade>
+            <clade>
+              <name>RS_GCF_009674625.1</name>
+              <branch_length>0.017194912</branch_length>
+            </clade>
+          </clade>
+          <clade>
+            <branch_length>0.008285274</branch_length>
+            <confidence type="unknown">1.0</confidence>
+            <clade>
+              <name>RS_GCF_009674605.1</name>
+              <branch_length>0.003252947</branch_length>
+            </clade>
+            <clade>
+              <name>RS_GCF_001469865.1</name>
+              <branch_length>0.00445544</branch_length>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

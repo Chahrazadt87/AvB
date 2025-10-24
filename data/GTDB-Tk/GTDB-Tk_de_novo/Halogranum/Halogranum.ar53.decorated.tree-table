@@ -1,0 +1,16 @@
+Taxon	No. Expected in Tree	F-measure	Precision	Recall	No. Genomes from Taxon	No. Genome In Lineage	Rogue out	Rogue in
+d__Archaea	8	1.0000	1.0000	1.0000	8	8		
+p__Halobacteriota	8	1.0000	1.0000	1.0000	8	8		
+c__Halobacteria	8	1.0000	1.0000	1.0000	8	8		
+o__Halobacteriales	8	1.0000	1.0000	1.0000	8	8		
+f__Haloferacaceae	8	1.0000	1.0000	1.0000	8	8		
+g__Halogranum	3	1.0000	1.0000	1.0000	3	3		
+g__Halohasta	5	1.0000	1.0000	1.0000	5	5		
+s__Halogranum amylolyticum	1	1.0000	1.0000	1.0000	1	1		
+s__Halogranum gelatinilyticum	1	1.0000	1.0000	1.0000	1	1		
+s__Halogranum rubrum	1	1.0000	1.0000	1.0000	1	1		
+s__Halohasta litchfieldiae	1	1.0000	1.0000	1.0000	1	1		
+s__Halohasta litorea	1	1.0000	1.0000	1.0000	1	1		
+s__Halohasta sp001563795	1	1.0000	1.0000	1.0000	1	1		
+s__Halohasta sp003554115	1	1.0000	1.0000	1.0000	1	1		
+s__Halohasta sp024178165	1	1.0000	1.0000	1.0000	1	1		

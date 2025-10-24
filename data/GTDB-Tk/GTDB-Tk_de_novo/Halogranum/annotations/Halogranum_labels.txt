@@ -1,0 +1,7 @@
+LABELS
+SEPARATOR COMMA
+DATA
+RS_GCF_900103715.1,Halogranum gelatinilyticum [GCF_900103715.1]
+RS_GCF_900110465.1,Halogranum amylolyticum [GCF_900110465.1]
+Halogranum_CG_2,Halogranum_CG_2
+RS_GCF_900114455.1,Halogranum rubrum [GCF_900114455.1]

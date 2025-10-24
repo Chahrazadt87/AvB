@@ -1,0 +1,105 @@
+{
+    "version": "2.4.0",
+    "command_line": "gtdbtk de_novo_wf --genome_dir /rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/Halogranum/ --out_dir /rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum --archaea --outgroup_taxon g__Halohasta --taxa_filter g__Halogranum -x fna --cpus 64 --prefix Halogranum --tmpdir /var/tmp/pbs.216974.pbs",
+    "database_version": "r220",
+    "database_path": "/rds/general/project/lms-warnecke-raw/live/gtdbtk-2.4.0",
+    "steps": [
+        {
+            "name": "identify",
+            "output_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum",
+            "starts_at": "2024-11-07T22:58:01.433564",
+            "ends_at": "2024-11-07T22:58:53.776953",
+            "duration": "0:00:52",
+            "status": "completed",
+            "genes": false,
+            "extension": "fna",
+            "write_single_copy_genes": false,
+            "genome_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/Halogranum/",
+            "batchfile": null,
+            "output_files": {
+                "all": [
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/identify/Halogranum.failed_genomes.tsv",
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/identify/Halogranum.translation_table_summary.tsv"
+                ],
+                "ar53": [
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/identify/Halogranum.ar53.markers_summary.tsv"
+                ],
+                "bac120": [
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/identify/Halogranum.bac120.markers_summary.tsv"
+                ]
+            }
+        },
+        {
+            "name": "align",
+            "output_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum",
+            "starts_at": "2024-11-07T22:58:53.777244",
+            "ends_at": "2024-11-07T22:58:58.634829",
+            "duration": "0:00:04",
+            "status": "completed",
+            "identify_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum",
+            "skip_gtdb_refs": false,
+            "taxa_filter": "g__Halogranum",
+            "min_perc_aa": 10,
+            "custom_msa_filters": false,
+            "skip_trimming": false,
+            "rnd_seed": null,
+            "cols_per_gene": 42,
+            "min_consensus": 25,
+            "max_consensus": 95,
+            "min_perc_taxa": 50,
+            "outgroup_taxon": "g__Halohasta",
+            "output_files": {
+                "ar53": [
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/align/Halogranum.ar53.filtered.tsv",
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/align/Halogranum.ar53.msa.fasta",
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/align/Halogranum.ar53.user_msa.fasta"
+                ]
+            }
+        },
+        {
+            "name": "infer",
+            "output_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum",
+            "starts_at": "2024-11-07T22:58:58.636294",
+            "ends_at": "2024-11-07T22:59:04.812754",
+            "duration": "0:00:06",
+            "status": "completed",
+            "msa_file": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/align/Halogranum.ar53.msa.fasta.gz",
+            "prot_model": "WAG",
+            "no_support": false,
+            "gamma": false
+        },
+        {
+            "name": "root",
+            "output_dir": null,
+            "starts_at": "2024-11-07T22:59:04.813085",
+            "ends_at": "2024-11-07T22:59:05.553076",
+            "duration": "0:00:00",
+            "status": "completed",
+            "input_tree": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/infer/intermediate_results/Halogranum.ar53.unrooted.tree",
+            "gtdbtk_classification_file": null,
+            "custom_taxonomy_file": null,
+            "outgroup_taxon": "g__Halohasta"
+        },
+        {
+            "name": "decorate",
+            "output_dir": null,
+            "starts_at": "2024-11-07T22:59:05.607554",
+            "ends_at": "2024-11-07T22:59:06.187129",
+            "duration": "0:00:00",
+            "status": "completed",
+            "input_tree": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/infer/intermediate_results/Halogranum.ar53.rooted.tree",
+            "gtdbtk_classification_file": null,
+            "custom_taxonomy_file": null,
+            "suffix": "ar53",
+            "output_files": {
+                "all": [
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/infer/Halogranum.ar53.decorated.tree-table",
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/infer/Halogranum.ar53.decorated.tree-taxonomy",
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/infer/Halogranum.ar53.decorated.tree"
+                ]
+            }
+        }
+    ],
+    "output_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum",
+    "path": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Halogranum/gtdbtk.json"
+}

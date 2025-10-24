@@ -1,0 +1,105 @@
+{
+    "version": "2.4.0",
+    "command_line": "gtdbtk de_novo_wf --genome_dir /rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/Pontibacillus/ --out_dir /rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/ --bacteria --outgroup_taxon f__Halobacillaceae --taxa_filter g__Pontibacillus -x fna --cpus 64 --prefix Pontibacillus --tmpdir /var/tmp/pbs.216035.pbs",
+    "database_version": "r220",
+    "database_path": "/rds/general/project/lms-warnecke-raw/live/gtdbtk-2.4.0",
+    "steps": [
+        {
+            "name": "identify",
+            "output_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/",
+            "starts_at": "2024-11-07T18:44:47.245748",
+            "ends_at": "2024-11-07T18:45:15.386807",
+            "duration": "0:00:28",
+            "status": "completed",
+            "genes": false,
+            "extension": "fna",
+            "write_single_copy_genes": false,
+            "genome_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/Pontibacillus/",
+            "batchfile": null,
+            "output_files": {
+                "all": [
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/identify/Pontibacillus.failed_genomes.tsv",
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/identify/Pontibacillus.translation_table_summary.tsv"
+                ],
+                "ar53": [
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/identify/Pontibacillus.ar53.markers_summary.tsv"
+                ],
+                "bac120": [
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/identify/Pontibacillus.bac120.markers_summary.tsv"
+                ]
+            }
+        },
+        {
+            "name": "align",
+            "output_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/",
+            "starts_at": "2024-11-07T18:45:15.387004",
+            "ends_at": "2024-11-07T18:45:49.408300",
+            "duration": "0:00:34",
+            "status": "completed",
+            "identify_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/",
+            "skip_gtdb_refs": false,
+            "taxa_filter": "g__Pontibacillus",
+            "min_perc_aa": 10,
+            "custom_msa_filters": false,
+            "skip_trimming": false,
+            "rnd_seed": null,
+            "cols_per_gene": 42,
+            "min_consensus": 25,
+            "max_consensus": 95,
+            "min_perc_taxa": 50,
+            "outgroup_taxon": "f__Halobacillaceae",
+            "output_files": {
+                "bac120": [
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/align/Pontibacillus.bac120.filtered.tsv",
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/align/Pontibacillus.bac120.msa.fasta",
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/align/Pontibacillus.bac120.user_msa.fasta"
+                ]
+            }
+        },
+        {
+            "name": "infer",
+            "output_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/",
+            "starts_at": "2024-11-07T18:45:49.408933",
+            "ends_at": "2024-11-07T18:46:16.501965",
+            "duration": "0:00:27",
+            "status": "completed",
+            "msa_file": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/align/Pontibacillus.bac120.msa.fasta.gz",
+            "prot_model": "WAG",
+            "no_support": false,
+            "gamma": false
+        },
+        {
+            "name": "root",
+            "output_dir": null,
+            "starts_at": "2024-11-07T18:46:16.502399",
+            "ends_at": "2024-11-07T18:46:17.077950",
+            "duration": "0:00:00",
+            "status": "completed",
+            "input_tree": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/infer/intermediate_results/Pontibacillus.bac120.unrooted.tree",
+            "gtdbtk_classification_file": null,
+            "custom_taxonomy_file": null,
+            "outgroup_taxon": "f__Halobacillaceae"
+        },
+        {
+            "name": "decorate",
+            "output_dir": null,
+            "starts_at": "2024-11-07T18:46:17.110903",
+            "ends_at": "2024-11-07T18:46:17.474749",
+            "duration": "0:00:00",
+            "status": "completed",
+            "input_tree": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/infer/intermediate_results/Pontibacillus.bac120.rooted.tree",
+            "gtdbtk_classification_file": null,
+            "custom_taxonomy_file": null,
+            "suffix": "bac120",
+            "output_files": {
+                "all": [
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/infer/Pontibacillus.bac120.decorated.tree-table",
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/infer/Pontibacillus.bac120.decorated.tree-taxonomy",
+                    "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/infer/Pontibacillus.bac120.decorated.tree"
+                ]
+            }
+        }
+    ],
+    "output_dir": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/",
+    "path": "/rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Pontibacillus/gtdbtk.json"
+}

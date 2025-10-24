@@ -1,0 +1,67 @@
+GTDBTK_DATA_PATH=/rds/general/project/lms-warnecke-raw/live/gtdbtk-2.4.0
+[2024-11-07 18:50:51] INFO: GTDB-Tk v2.4.0
+[2024-11-07 18:50:51] INFO: gtdbtk de_novo_wf --genome_dir /rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/Haloferax/ --out_dir /rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Haloferax/ --archaea --outgroup_taxon g__Halobellus --taxa_filter g__Haloferax -x fna --cpus 64 --prefix Haloferax --tmpdir /var/tmp/pbs.216040.pbs
+[2024-11-07 18:50:51] INFO: Using GTDB-Tk reference data version r220: /rds/general/project/lms-warnecke-raw/live/gtdbtk-2.4.0
+[2024-11-07 18:50:52] INFO: Identifying markers in 2 genomes with 64 threads.
+[2024-11-07 18:50:52] TASK: Running Prodigal V2.6.3 to identify genes.
+[2024-11-07 18:51:33] INFO: Completed 2 genomes in 41.22 seconds (20.61 seconds/genome).
+[2024-11-07 18:51:33] TASK: Identifying TIGRFAM protein families.
+[2024-11-07 18:51:39] INFO: Completed 2 genomes in 6.25 seconds (3.12 seconds/genome).
+[2024-11-07 18:51:39] TASK: Identifying Pfam protein families.
+[2024-11-07 18:51:40] INFO: Completed 2 genomes in 0.76 seconds (2.63 genomes/second).
+[2024-11-07 18:51:40] INFO: Annotations done using HMMER 3.4 (Aug 2023).
+[2024-11-07 18:51:40] TASK: Summarising identified marker genes.
+[2024-11-07 18:51:40] INFO: Completed 2 genomes in 0.21 seconds (9.44 genomes/second).
+[2024-11-07 18:51:40] INFO: Done.
+[2024-11-07 18:51:40] INFO: Aligning markers in 2 genomes with 64 CPUs.
+[2024-11-07 18:51:41] INFO: Processing 2 genomes identified as archaeal.
+[2024-11-07 18:51:41] INFO: Read concatenated alignment for 5,869 GTDB genomes.
+[2024-11-07 18:51:41] INFO: Filtered 99.54% (5,842/5,869) taxa based on assigned taxonomy, 27 taxa remain.
+[2024-11-07 18:51:41] TASK: Generating concatenated alignment for each marker.
+[2024-11-07 18:51:41] INFO: Completed 2 genomes in 0.06 seconds (34.29 genomes/second).
+[2024-11-07 18:51:42] TASK: Aligning 52 identified markers using hmmalign 3.4 (Aug 2023).
+[2024-11-07 18:51:42] INFO: Completed 52 markers in 0.13 seconds (401.77 markers/second).
+[2024-11-07 18:51:42] TASK: Masking columns of archaeal multiple sequence alignment using canonical mask.
+[2024-11-07 18:51:42] INFO: Completed 29 sequences in 0.06 seconds (479.46 sequences/second).
+[2024-11-07 18:51:42] INFO: Masked archaeal alignment from 13,540 to 10,101 AAs.
+[2024-11-07 18:51:42] INFO: 0 archaeal user genomes have amino acids in <10.0% of columns in filtered MSA.
+[2024-11-07 18:51:42] INFO: Creating concatenated alignment for 29 archaeal GTDB and user genomes.
+[2024-11-07 18:51:42] INFO: Creating concatenated alignment for 2 archaeal user genomes.
+[2024-11-07 18:51:43] INFO: Done.
+[2024-11-07 18:51:43] INFO: Inferring FastTree (WAG, SH support values) using a maximum of 64 CPUs.
+[2024-11-07 18:52:08] INFO: FastTree version: precision
+[2024-11-07 18:52:08] INFO: Done.
+[2024-11-07 18:52:08] INFO: Reading GTDB taxonomy for representative genomes.
+[2024-11-07 18:52:08] INFO: Read taxonomy for 113,104 genomes.
+[2024-11-07 18:52:08] INFO: Identifying genomes from the specified outgroup: g__Halobellus
+[2024-11-07 18:52:09] INFO: Identified 10 outgroup taxa in the tree.
+[2024-11-07 18:52:09] INFO: Identified 19 ingroup taxa in the tree.
+[2024-11-07 18:52:09] INFO: Outgroup is monophyletic.
+[2024-11-07 18:52:09] INFO: Rerooting tree.
+[2024-11-07 18:52:09] INFO: Rerooted tree written to: /rds/general/user/rs1521/home/chahrazad/Atanasova_genomes/GTDB-Tk_de_novo/Haloferax/infer/intermediate_results/Haloferax.ar53.rooted.tree
+[2024-11-07 18:52:09] INFO: Done.
+[2024-11-07 18:52:09] INFO: Reading GTDB taxonomy for representative genomes.
+[2024-11-07 18:52:09] INFO: Read taxonomy for 113,104 genomes.
+[2024-11-07 18:52:09] INFO: Reading tree.
+[2024-11-07 18:52:09] INFO: Removing any previous internal node labels.
+[2024-11-07 18:52:09] INFO: Calculating F-measure statistic for each taxa.
+[2024-11-07 18:52:09] INFO: Calculating taxa within each lineage.
+[2024-11-07 18:52:09] INFO: Processing 1 taxa at Domain rank.
+[2024-11-07 18:52:09] INFO: Processing 1 taxa at Phylum rank.
+[2024-11-07 18:52:09] INFO: Processing 1 taxa at Class rank.
+[2024-11-07 18:52:09] INFO: Processing 1 taxa at Order rank.
+[2024-11-07 18:52:09] INFO: Processing 1 taxa at Family rank.
+[2024-11-07 18:52:09] INFO: Processing 2 taxa at Genus rank.
+[2024-11-07 18:52:09] INFO: Processing 27 taxa at Species rank.
+[2024-11-07 18:52:09] WARNING: There are 2 taxa with multiple placements of equal quality.
+[2024-11-07 18:52:09] WARNING: These were resolved by placing the label at the most terminal position.
+[2024-11-07 18:52:09] WARNING: Ideally, taxonomic assignment of all genomes should be established before tree decoration.
+[2024-11-07 18:52:09] INFO: Placing labels on tree.
+[2024-11-07 18:52:09] INFO: Writing out statistics for taxa.
+[2024-11-07 18:52:09] INFO: Writing out inferred taxonomy for each genome.
+[2024-11-07 18:52:09] INFO: Writing out decorated tree.
+[2024-11-07 18:52:09] INFO: Done.
+[2024-11-07 18:52:09] INFO: Done.
+[2024-11-07 18:52:09] INFO: Removing intermediate files.
+[2024-11-07 18:52:09] INFO: Intermediate files removed.
+[2024-11-07 18:52:09] INFO: Done.

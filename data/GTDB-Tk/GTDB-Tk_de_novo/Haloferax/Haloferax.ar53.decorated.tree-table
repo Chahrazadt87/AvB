@@ -1,0 +1,35 @@
+Taxon	No. Expected in Tree	F-measure	Precision	Recall	No. Genomes from Taxon	No. Genome In Lineage	Rogue out	Rogue in
+d__Archaea	27	1.0000	1.0000	1.0000	27	27		
+p__Halobacteriota	27	1.0000	1.0000	1.0000	27	27		
+c__Halobacteria	27	1.0000	1.0000	1.0000	27	27		
+o__Halobacteriales	27	1.0000	1.0000	1.0000	27	27		
+f__Haloferacaceae	27	1.0000	1.0000	1.0000	27	27		
+g__Halobellus	10	1.0000	1.0000	1.0000	10	10		
+g__Haloferax	17	1.0000	1.0000	1.0000	17	17		
+s__Halobellus captivus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobellus clavatus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobellus inordinatus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobellus limi	1	1.0000	1.0000	1.0000	1	1		
+s__Halobellus litoreus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobellus rarus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobellus ruber	1	1.0000	1.0000	1.0000	1	1		
+s__Halobellus rufus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobellus salinus	1	1.0000	1.0000	1.0000	1	1		
+s__Halobellus sp003665935	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax denitrificans	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax elongans	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax gibbonsii	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax larsenii	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax litoreum	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax marinisediminis	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax marinum	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax marisrubri	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax massiliensis	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax mediterranei	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax mucosum	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax prahovense	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax profundi	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax sp001482285	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax sp003383095	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax sulfurifontis	1	1.0000	1.0000	1.0000	1	1		
+s__Haloferax volcanii	1	1.0000	1.0000	1.0000	1	1		

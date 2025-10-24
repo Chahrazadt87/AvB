@@ -1,0 +1,71 @@
+Taxon	No. Expected in Tree	F-measure	Precision	Recall	No. Genomes from Taxon	No. Genome In Lineage	Rogue out	Rogue in
+d__Archaea	63	1.0000	1.0000	1.0000	63	63		
+p__Halobacteriota	63	1.0000	1.0000	1.0000	63	63		
+c__Halobacteria	63	1.0000	1.0000	1.0000	63	63		
+o__Halobacteriales	63	1.0000	1.0000	1.0000	63	63		
+f__Haloferacaceae	63	1.0000	1.0000	1.0000	63	63		
+g__Haloquadratum	5	1.0000	1.0000	1.0000	5	5		
+g__Halorubrum	58	1.0000	1.0000	1.0000	58	58		
+s__Haloquadratum sp000416005	1	1.0000	1.0000	1.0000	1	1		
+s__Haloquadratum sp028275165	1	1.0000	1.0000	1.0000	1	1		
+s__Haloquadratum walsbyi	1	1.0000	1.0000	1.0000	1	1		
+s__Haloquadratum walsbyi_A	1	1.0000	1.0000	1.0000	1	1		
+s__Haloquadratum walsbyi_B	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum aethiopicum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum aidingense	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum alkaliphilum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum amylolyticum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum aquaticum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum californiense	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum cibi	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum coriense	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum depositum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum distributum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum ezzemoulense	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum halodurans	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum halophilum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum hochstenium	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum kocurii	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum lacusprofundi	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum laminariae	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum lipolyticum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum persicum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum ruber	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum rubrum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum rutilum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum saccharovorum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum salinarum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum salinum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum salipaludis	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum salsamenti	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sodomense	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp000496175	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp000746205	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp001261915	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp001564205	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp002252755	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp003023405	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp003287355	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp003554605	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp003666015	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp003697845	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp003721435	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp003781945	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp003990725	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp004114375	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp005435165	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp009742825	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp009806985	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp018623055	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp027257195	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp028275105	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp029889805	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp901686465	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum sp937146585	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum tebenquichense	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum trapanicum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum trapanicum_A	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum tropicale	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum vacuolatum	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum xinjiangense	1	1.0000	1.0000	1.0000	1	1		
+s__Halorubrum yunnanense	1	1.0000	1.0000	1.0000	1	1		

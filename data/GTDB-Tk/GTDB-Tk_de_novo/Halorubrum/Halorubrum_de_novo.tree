@@ -1,0 +1,639 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>0.921:g__Halorubrum</name>
+      <branch_length>0.087885969</branch_length>
+      <clade>
+        <branch_length>0.034098665</branch_length>
+        <confidence type="unknown">1.0</confidence>
+        <clade>
+          <name>GB_GCA_003554605.1</name>
+          <branch_length>0.016209717</branch_length>
+        </clade>
+        <clade>
+          <name>RS_GCF_900188065.1</name>
+          <branch_length>0.01884147</branch_length>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.014846757</branch_length>
+        <confidence type="unknown">1.0</confidence>
+        <clade>
+          <name>RS_GCF_009806985.1</name>
+          <branch_length>0.039717518</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.02157153</branch_length>
+          <confidence type="unknown">1.0</confidence>
+          <clade>
+            <branch_length>0.013031497</branch_length>
+            <confidence type="unknown">1.0</confidence>
+            <clade>
+              <branch_length>0.006198232</branch_length>
+              <confidence type="unknown">0.323</confidence>
+              <clade>
+                <name>RS_GCF_017873815.1</name>
+                <branch_length>0.038499759</branch_length>
+              </clade>
+              <clade>
+                <branch_length>0.008050141</branch_length>
+                <confidence type="unknown">0.581</confidence>
+                <clade>
+                  <name>GB_GCA_000496175.1</name>
+                  <branch_length>0.038959181</branch_length>
+                </clade>
+                <clade>
+                  <name>GB_GCA_028275105.1</name>
+                  <branch_length>0.061279963</branch_length>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <branch_length>0.014148283</branch_length>
+              <confidence type="unknown">1.0</confidence>
+              <clade>
+                <branch_length>0.003374287</branch_length>
+                <confidence type="unknown">0.982</confidence>
+                <clade>
+                  <branch_length>0.004292333</branch_length>
+                  <confidence type="unknown">0.73</confidence>
+                  <clade>
+                    <branch_length>0.005040473</branch_length>
+                    <confidence type="unknown">1.0</confidence>
+                    <clade>
+                      <name>RS_GCF_024494685.1</name>
+                      <branch_length>0.013612945</branch_length>
+                    </clade>
+                    <clade>
+                      <branch_length>0.004350213</branch_length>
+                      <confidence type="unknown">0.994</confidence>
+                      <clade>
+                        <name>RS_GCF_001542905.1</name>
+                        <branch_length>0.005510254</branch_length>
+                      </clade>
+                      <clade>
+                        <name>RS_GCF_002252985.1</name>
+                        <branch_length>0.009423634</branch_length>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>RS_GCF_900182635.1</name>
+                    <branch_length>0.009680203</branch_length>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>RS_GCF_900113615.1</name>
+                  <branch_length>0.011739207</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <branch_length>0.004404474</branch_length>
+                <confidence type="unknown">0.946</confidence>
+                <clade>
+                  <name>RS_GCF_003287355.1</name>
+                  <branch_length>0.0214379</branch_length>
+                </clade>
+                <clade>
+                  <branch_length>0.007604449</branch_length>
+                  <confidence type="unknown">1.0</confidence>
+                  <clade>
+                    <name>RS_GCF_003697845.1</name>
+                    <branch_length>0.00569516</branch_length>
+                  </clade>
+                  <clade>
+                    <name>RS_GCF_027257195.1</name>
+                    <branch_length>0.008920098</branch_length>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <branch_length>0.016212181</branch_length>
+            <confidence type="unknown">0.754</confidence>
+            <clade>
+              <branch_length>0.005807765</branch_length>
+              <confidence type="unknown">0.995</confidence>
+              <clade>
+                <branch_length>0.016687892</branch_length>
+                <confidence type="unknown">1.0</confidence>
+                <clade>
+                  <name>RS_GCF_024494655.1</name>
+                  <branch_length>0.01786404</branch_length>
+                </clade>
+                <clade>
+                  <branch_length>0.008247505</branch_length>
+                  <confidence type="unknown">1.0</confidence>
+                  <clade>
+                    <name>RS_GCF_000746205.1</name>
+                    <branch_length>0.008393155</branch_length>
+                  </clade>
+                  <clade>
+                    <name>RS_GCF_024494575.1</name>
+                    <branch_length>0.005825986</branch_length>
+                  </clade>
+                </clade>
+              </clade>
+              <clade>
+                <branch_length>0.005926623</branch_length>
+                <confidence type="unknown">0.997</confidence>
+                <clade>
+                  <branch_length>0.006951873</branch_length>
+                  <confidence type="unknown">1.0</confidence>
+                  <clade>
+                    <branch_length>0.018864295</branch_length>
+                    <confidence type="unknown">1.0</confidence>
+                    <clade>
+                      <name>RS_GCF_003990725.2</name>
+                      <branch_length>0.006326584</branch_length>
+                    </clade>
+                    <clade>
+                      <branch_length>0.003355598</branch_length>
+                      <confidence type="unknown">1.0</confidence>
+                      <clade>
+                        <name>Halorubrum_E200_4</name>
+                        <branch_length>0.000281037</branch_length>
+                      </clade>
+                      <clade>
+                        <branch_length>0.000386111</branch_length>
+                        <confidence type="unknown">0.022</confidence>
+                        <clade>
+                          <name>Halorubrum_S3_3</name>
+                          <branch_length>0.037424773</branch_length>
+                        </clade>
+                        <clade>
+                          <name>Halorubrum_E301_2</name>
+                          <branch_length>0.002402333</branch_length>
+                        </clade>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <branch_length>0.003225686</branch_length>
+                    <confidence type="unknown">0.812</confidence>
+                    <clade>
+                      <name>RS_GCF_000022205.1</name>
+                      <branch_length>0.017340029</branch_length>
+                    </clade>
+                    <clade>
+                      <branch_length>0.002574459</branch_length>
+                      <confidence type="unknown">0.942</confidence>
+                      <clade>
+                        <branch_length>0.003364901</branch_length>
+                        <confidence type="unknown">0.996</confidence>
+                        <clade>
+                          <branch_length>0.002240604</branch_length>
+                          <confidence type="unknown">0.936</confidence>
+                          <clade>
+                            <name>RS_GCF_002727125.1</name>
+                            <branch_length>0.014327274</branch_length>
+                          </clade>
+                          <clade>
+                            <branch_length>0.008543349</branch_length>
+                            <confidence type="unknown">1.0</confidence>
+                            <clade>
+                              <name>Halorubrum_SL5</name>
+                              <branch_length>0.000657787</branch_length>
+                            </clade>
+                            <clade>
+                              <name>RS_GCF_000337915.1</name>
+                              <branch_length>0.000894539</branch_length>
+                            </clade>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <branch_length>0.001449777</branch_length>
+                          <confidence type="unknown">0.53</confidence>
+                          <clade>
+                            <branch_length>0.001556162</branch_length>
+                            <confidence type="unknown">0.644</confidence>
+                            <clade>
+                              <name>RS_GCF_000739595.1</name>
+                              <branch_length>0.011689391</branch_length>
+                            </clade>
+                            <clade>
+                              <branch_length>0.00253648</branch_length>
+                              <confidence type="unknown">0.878</confidence>
+                              <clade>
+                                <name>RS_GCF_004114995.1</name>
+                                <branch_length>0.016780333</branch_length>
+                              </clade>
+                              <clade>
+                                <name>RS_GCF_007671685.1</name>
+                                <branch_length>0.009011296</branch_length>
+                              </clade>
+                            </clade>
+                          </clade>
+                          <clade>
+                            <branch_length>0.00549078</branch_length>
+                            <confidence type="unknown">1.0</confidence>
+                            <clade>
+                              <name>RS_GCF_002286985.1</name>
+                              <branch_length>0.010633445</branch_length>
+                            </clade>
+                            <clade>
+                              <name>RS_GCF_003781945.1</name>
+                              <branch_length>0.010266574</branch_length>
+                            </clade>
+                          </clade>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <branch_length>0.00432251</branch_length>
+                        <confidence type="unknown">0.997</confidence>
+                        <clade>
+                          <name>RS_GCF_000337355.1</name>
+                          <branch_length>0.01115971</branch_length>
+                        </clade>
+                        <clade>
+                          <name>RS_GCF_000337375.1</name>
+                          <branch_length>0.01027524</branch_length>
+                        </clade>
+                      </clade>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <branch_length>0.006110445</branch_length>
+                  <confidence type="unknown">1.0</confidence>
+                  <clade>
+                    <branch_length>0.010086323</branch_length>
+                    <confidence type="unknown">1.0</confidence>
+                    <clade>
+                      <name>GB_GCA_001564205.1</name>
+                      <branch_length>0.025379697</branch_length>
+                    </clade>
+                    <clade>
+                      <name>RS_GCF_000336995.1</name>
+                      <branch_length>0.018153068</branch_length>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <branch_length>0.007539168</branch_length>
+                    <confidence type="unknown">1.0</confidence>
+                    <clade>
+                      <branch_length>0.008404609</branch_length>
+                      <confidence type="unknown">1.0</confidence>
+                      <clade>
+                        <name>Halorubrum_SS5_8</name>
+                        <branch_length>0.01009602</branch_length>
+                      </clade>
+                      <clade>
+                        <branch_length>0.004491182</branch_length>
+                        <confidence type="unknown">1.0</confidence>
+                        <clade>
+                          <name>Halorubrum_CG4</name>
+                          <branch_length>0.003333106</branch_length>
+                        </clade>
+                        <clade>
+                          <branch_length>0.0029369</branch_length>
+                          <confidence type="unknown">1.0</confidence>
+                          <clade>
+                            <branch_length>0.000208239</branch_length>
+                            <confidence type="unknown">0.543</confidence>
+                            <clade>
+                              <name>Halorubrum_S5a_2</name>
+                              <branch_length>0.00108512</branch_length>
+                            </clade>
+                            <clade>
+                              <name>Halorubrum_S5a_4</name>
+                              <branch_length>0.000687706</branch_length>
+                            </clade>
+                          </clade>
+                          <clade>
+                            <branch_length>0.000299675</branch_length>
+                            <confidence type="unknown">0.87</confidence>
+                            <clade>
+                              <name>Halorubrum_S1_1</name>
+                              <branch_length>0.000476771</branch_length>
+                            </clade>
+                            <clade>
+                              <name>Halorubrum_S5a_6</name>
+                              <branch_length>0.001596292</branch_length>
+                            </clade>
+                          </clade>
+                        </clade>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <branch_length>0.004660108</branch_length>
+                      <confidence type="unknown">0.999</confidence>
+                      <clade>
+                        <branch_length>0.003438467</branch_length>
+                        <confidence type="unknown">0.985</confidence>
+                        <clade>
+                          <branch_length>0.00286414</branch_length>
+                          <confidence type="unknown">0.454</confidence>
+                          <clade>
+                            <name>RS_GCF_003721435.2</name>
+                            <branch_length>0.009934425</branch_length>
+                          </clade>
+                          <clade>
+                            <name>RS_GCF_029889805.1</name>
+                            <branch_length>0.017197623</branch_length>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <branch_length>0.004354376</branch_length>
+                          <confidence type="unknown">0.948</confidence>
+                          <clade>
+                            <branch_length>0.006560888</branch_length>
+                            <confidence type="unknown">1.0</confidence>
+                            <clade>
+                              <name>RS_GCF_001261915.1</name>
+                              <branch_length>0.008868207</branch_length>
+                            </clade>
+                            <clade>
+                              <name>RS_GCF_024494565.1</name>
+                              <branch_length>0.011006245</branch_length>
+                            </clade>
+                          </clade>
+                          <clade>
+                            <name>RS_GCF_026586675.1</name>
+                            <branch_length>0.024586075</branch_length>
+                          </clade>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <branch_length>0.002278275</branch_length>
+                        <confidence type="unknown">0.949</confidence>
+                        <clade>
+                          <name>RS_GCF_002252755.1</name>
+                          <branch_length>0.010417834</branch_length>
+                        </clade>
+                        <clade>
+                          <branch_length>0.002122845</branch_length>
+                          <confidence type="unknown">0.281</confidence>
+                          <clade>
+                            <name>Halorubrum_GV4</name>
+                            <branch_length>0.008125264</branch_length>
+                          </clade>
+                          <clade>
+                            <name>RS_GCF_007671725.1</name>
+                            <branch_length>0.00831452</branch_length>
+                          </clade>
+                        </clade>
+                      </clade>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <branch_length>0.005451962</branch_length>
+              <confidence type="unknown">1.0</confidence>
+              <clade>
+                <name>RS_GCF_009742825.1</name>
+                <branch_length>0.035265622</branch_length>
+              </clade>
+              <clade>
+                <branch_length>0.020912251</branch_length>
+                <confidence type="unknown">0.994</confidence>
+                <clade>
+                  <branch_length>0.003193768</branch_length>
+                  <confidence type="unknown">0.954</confidence>
+                  <clade>
+                    <name>RS_GCF_004114375.1</name>
+                    <branch_length>0.030402471</branch_length>
+                  </clade>
+                  <clade>
+                    <branch_length>0.006526556</branch_length>
+                    <confidence type="unknown">0.97</confidence>
+                    <clade>
+                      <name>RS_GCF_901686465.1</name>
+                      <branch_length>0.010662098</branch_length>
+                    </clade>
+                    <clade>
+                      <branch_length>0.003379226</branch_length>
+                      <confidence type="unknown">0.975</confidence>
+                      <clade>
+                        <name>GB_GCA_003023405.1</name>
+                        <branch_length>0.019997246</branch_length>
+                      </clade>
+                      <clade>
+                        <branch_length>0.004846365</branch_length>
+                        <confidence type="unknown">1.0</confidence>
+                        <clade>
+                          <name>RS_GCF_000337075.1</name>
+                          <branch_length>0.005222397</branch_length>
+                        </clade>
+                        <clade>
+                          <name>RS_GCF_000337415.1</name>
+                          <branch_length>0.005152427</branch_length>
+                        </clade>
+                      </clade>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <branch_length>0.004214533</branch_length>
+                  <confidence type="unknown">0.966</confidence>
+                  <clade>
+                    <branch_length>0.003371945</branch_length>
+                    <confidence type="unknown">0.625</confidence>
+                    <clade>
+                      <name>RS_GCF_017873555.1</name>
+                      <branch_length>0.010571613</branch_length>
+                    </clade>
+                    <clade>
+                      <name>RS_GCF_018623055.1</name>
+                      <branch_length>0.012714068</branch_length>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <branch_length>0.003469974</branch_length>
+                    <confidence type="unknown">0.569</confidence>
+                    <clade>
+                      <name>RS_GCF_900111935.1</name>
+                      <branch_length>0.016917503</branch_length>
+                    </clade>
+                    <clade>
+                      <branch_length>0.002813467</branch_length>
+                      <confidence type="unknown">0.64</confidence>
+                      <clade>
+                        <branch_length>0.004787761</branch_length>
+                        <confidence type="unknown">0.999</confidence>
+                        <clade>
+                          <name>RS_GCF_002355655.1</name>
+                          <branch_length>0.007819325</branch_length>
+                        </clade>
+                        <clade>
+                          <branch_length>0.002221647</branch_length>
+                          <confidence type="unknown">0.927</confidence>
+                          <clade>
+                            <name>Halorubrum_GV9</name>
+                            <branch_length>0.007396815</branch_length>
+                          </clade>
+                          <clade>
+                            <branch_length>0.002181174</branch_length>
+                            <confidence type="unknown">0.976</confidence>
+                            <clade>
+                              <name>RS_GCF_000337335.1</name>
+                              <branch_length>0.008898266</branch_length>
+                            </clade>
+                            <clade>
+                              <branch_length>0.002605986</branch_length>
+                              <confidence type="unknown">0.942</confidence>
+                              <clade>
+                                <name>RS_GCF_003666015.1</name>
+                                <branch_length>0.007867491</branch_length>
+                              </clade>
+                              <clade>
+                                <name>RS_GCF_018228765.1</name>
+                                <branch_length>0.005749623</branch_length>
+                              </clade>
+                            </clade>
+                          </clade>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <branch_length>0.002052375</branch_length>
+                        <clade>
+                          <branch_length>0.003069644</branch_length>
+                          <confidence type="unknown">0.797</confidence>
+                          <clade>
+                            <name>RS_GCF_000336875.1</name>
+                            <branch_length>0.012418116</branch_length>
+                          </clade>
+                          <clade>
+                            <branch_length>0.00458918</branch_length>
+                            <confidence type="unknown">0.999</confidence>
+                            <clade>
+                              <branch_length>0.008798011</branch_length>
+                              <confidence type="unknown">1.0</confidence>
+                              <clade>
+                                <name>Halorubrum_E302_1</name>
+                                <branch_length>0.000889688</branch_length>
+                              </clade>
+                              <clade>
+                                <name>RS_GCF_002114285.1</name>
+                                <branch_length>0.001242739</branch_length>
+                              </clade>
+                            </clade>
+                            <clade>
+                              <branch_length>0.006828465</branch_length>
+                              <confidence type="unknown">1.0</confidence>
+                              <clade>
+                                <name>RS_GCF_000337035.1</name>
+                                <branch_length>0.007542804</branch_length>
+                              </clade>
+                              <clade>
+                                <branch_length>0.006108323</branch_length>
+                                <confidence type="unknown">1.0</confidence>
+                                <clade>
+                                  <name>Halorubrum_E303_2</name>
+                                  <branch_length>0.000984632</branch_length>
+                                </clade>
+                                <clade>
+                                  <name>RS_GCF_937146585.1</name>
+                                  <branch_length>0.002565603</branch_length>
+                                </clade>
+                              </clade>
+                            </clade>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <branch_length>0.002256911</branch_length>
+                          <confidence type="unknown">0.986</confidence>
+                          <clade>
+                            <branch_length>0.003246689</branch_length>
+                            <confidence type="unknown">0.995</confidence>
+                            <clade>
+                              <name>RS_GCF_005435165.1</name>
+                              <branch_length>0.012579374</branch_length>
+                            </clade>
+                            <clade>
+                              <name>RS_GCF_900102375.1</name>
+                              <branch_length>0.011908299</branch_length>
+                            </clade>
+                          </clade>
+                          <clade>
+                            <branch_length>0.003039119</branch_length>
+                            <confidence type="unknown">0.989</confidence>
+                            <clade>
+                              <name>Halorubrum_E301_4</name>
+                              <branch_length>0.011785011</branch_length>
+                            </clade>
+                            <clade>
+                              <branch_length>0.006828042</branch_length>
+                              <confidence type="unknown">1.0</confidence>
+                              <clade>
+                                <branch_length>0.001424791</branch_length>
+                                <confidence type="unknown">0.973</confidence>
+                                <clade>
+                                  <branch_length>0.000757523</branch_length>
+                                  <confidence type="unknown">0.979</confidence>
+                                  <clade>
+                                    <name>Halorubrum_SS1_3</name>
+                                    <branch_length>0.001336165</branch_length>
+                                  </clade>
+                                  <clade>
+                                    <name>Halorubrum_SS2_6</name>
+                                    <branch_length>0.001203221</branch_length>
+                                  </clade>
+                                </clade>
+                                <clade>
+                                  <branch_length>0.000444888</branch_length>
+                                  <confidence type="unknown">0.607</confidence>
+                                  <clade>
+                                    <name>Halorubrum_SS5_7</name>
+                                    <branch_length>0.001782412</branch_length>
+                                  </clade>
+                                  <clade>
+                                    <branch_length>0.001056801</branch_length>
+                                    <confidence type="unknown">0.983</confidence>
+                                    <clade>
+                                      <name>RS_GCF_013267195.1</name>
+                                      <branch_length>0.000488194</branch_length>
+                                    </clade>
+                                    <clade>
+                                      <branch_length>0.001444137</branch_length>
+                                      <confidence type="unknown">0.997</confidence>
+                                      <clade>
+                                        <name>Halorubrum_B2_2</name>
+                                        <branch_length>0.000486757</branch_length>
+                                      </clade>
+                                      <clade>
+                                        <name>Halorubrum_SS5_4</name>
+                                        <branch_length>0.000833635</branch_length>
+                                      </clade>
+                                    </clade>
+                                  </clade>
+                                </clade>
+                              </clade>
+                              <clade>
+                                <branch_length>0.004171518</branch_length>
+                                <confidence type="unknown">1.0</confidence>
+                                <clade>
+                                  <branch_length>0.000110607</branch_length>
+                                  <confidence type="unknown">0.735</confidence>
+                                  <clade>
+                                    <name>Halorubrum_E200_3</name>
+                                    <branch_length>0.000297535</branch_length>
+                                  </clade>
+                                  <clade>
+                                    <name>Halorubrum_E301_3</name>
+                                    <branch_length>0.001265825</branch_length>
+                                  </clade>
+                                </clade>
+                                <clade>
+                                  <name>RS_GCF_001280455.1</name>
+                                  <branch_length>0.000671859</branch_length>
+                                </clade>
+                              </clade>
+                            </clade>
+                          </clade>
+                        </clade>
+                      </clade>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

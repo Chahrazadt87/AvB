@@ -1,0 +1,87 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>1.0:f__BH030062; g__Pontibacillus</name>
+      <branch_length>0.0526938445</branch_length>
+      <clade>
+        <branch_length>0.01463631</branch_length>
+        <confidence type="unknown">0.484</confidence>
+        <clade>
+          <branch_length>0.066765191</branch_length>
+          <confidence type="unknown">1.0</confidence>
+          <clade>
+            <name>RS_GCF_030166655.1</name>
+            <branch_length>0.012666705</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.012105086</branch_length>
+            <confidence type="unknown">1.0</confidence>
+            <clade>
+              <name>RS_GCF_000770675.1</name>
+              <branch_length>0.005143086</branch_length>
+            </clade>
+            <clade>
+              <name>RS_GCF_014642405.1</name>
+              <branch_length>0.004077449</branch_length>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <branch_length>0.066456211</branch_length>
+          <confidence type="unknown">1.0</confidence>
+          <clade>
+            <name>RS_GCF_000425225.1</name>
+            <branch_length>0.002634577</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.002768268</branch_length>
+            <confidence type="unknown">0.968</confidence>
+            <clade>
+              <branch_length>0.00476999</branch_length>
+              <clade>
+                <name>Pontibacillus_SL1</name>
+                <branch_length>0.0</branch_length>
+              </clade>
+              <clade>
+                <name>Pontibacillus_SP9-4</name>
+                <branch_length>0.0</branch_length>
+              </clade>
+            </clade>
+            <clade>
+              <name>RS_GCF_009858175.1</name>
+              <branch_length>0.003061794</branch_length>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.017547772</branch_length>
+        <confidence type="unknown">0.96</confidence>
+        <clade>
+          <name>RS_GCF_000775615.1</name>
+          <branch_length>0.109046767</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.052833322</branch_length>
+          <confidence type="unknown">1.0</confidence>
+          <clade>
+            <name>RS_GCF_009856295.1</name>
+            <branch_length>0.011412695</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.008143771</branch_length>
+            <confidence type="unknown">1.0</confidence>
+            <clade>
+              <name>RS_GCF_000770635.1</name>
+              <branch_length>0.001925297</branch_length>
+            </clade>
+            <clade>
+              <name>Pontibacillus_PV1</name>
+              <branch_length>0.001314561</branch_length>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
