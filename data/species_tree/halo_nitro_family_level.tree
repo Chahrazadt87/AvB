@@ -1,0 +1,623 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>d__Archaea</name>
+      <clade>
+        <name>100.0:p__Undinarchaeota; c__Undinarchaeia; o__Undinarchaeales</name>
+        <branch_length>0.2611770274</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.2611770274</branch_length>
+        <confidence type="unknown">100.0</confidence>
+        <clade>
+          <branch_length>0.0527608017</branch_length>
+          <confidence type="unknown">80.0</confidence>
+          <clade>
+            <branch_length>0.1075794633</branch_length>
+            <confidence type="unknown">93.0</confidence>
+            <clade>
+              <branch_length>0.0363666195</branch_length>
+              <confidence type="unknown">70.0</confidence>
+              <clade>
+                <branch_length>0.1798167948</branch_length>
+                <confidence type="unknown">100.0</confidence>
+                <clade>
+                  <name>49.0:p__Thermoproteota</name>
+                  <branch_length>0.05919327</branch_length>
+                  <clade>
+                    <branch_length>0.0445491036</branch_length>
+                    <confidence type="unknown">66.0</confidence>
+                    <clade>
+                      <branch_length>0.1092894059</branch_length>
+                      <confidence type="unknown">100.0</confidence>
+                      <clade>
+                        <branch_length>0.0478222225</branch_length>
+                        <confidence type="unknown">67.0</confidence>
+                        <clade>
+                          <branch_length>0.0465878014</branch_length>
+                          <confidence type="unknown">56.0</confidence>
+                          <clade>
+                            <name>96.0:c__Nitrososphaeria</name>
+                            <branch_length>0.1195000628</branch_length>
+                            <clade>
+                              <branch_length>0.2645070288</branch_length>
+                              <confidence type="unknown">100.0</confidence>
+                              <clade>
+                                <branch_length>0.0676988882</branch_length>
+                                <confidence type="unknown">56.0</confidence>
+                                <clade>
+                                  <branch_length>0.0620722498</branch_length>
+                                  <confidence type="unknown">69.0</confidence>
+                                  <clade>
+                                    <name>95.0:o__Nitrososphaerales</name>
+                                    <branch_length>0.0513182819</branch_length>
+                                    <clade>
+                                      <branch_length>0.2511655707</branch_length>
+                                      <confidence type="unknown">100.0</confidence>
+                                      <clade>
+                                        <branch_length>0.0644850662</branch_length>
+                                        <confidence type="unknown">67.0</confidence>
+                                        <clade>
+                                          <branch_length>0.0755701954</branch_length>
+                                          <confidence type="unknown">100.0</confidence>
+                                          <clade>
+                                            <name>100.0:f__Nitrosopumilaceae</name>
+                                            <branch_length>0.3375075806</branch_length>
+                                          </clade>
+                                          <clade>
+                                            <name>100.0:f__Nitrososphaeraceae</name>
+                                            <branch_length>0.24609393</branch_length>
+                                          </clade>
+                                        </clade>
+                                        <clade>
+                                          <name>GB_GCA_002713325.1</name>
+                                          <branch_length>0.3955434624</branch_length>
+                                        </clade>
+                                      </clade>
+                                      <clade>
+                                        <name>100.0:f__Nitrosocaldaceae</name>
+                                        <branch_length>0.0921323413</branch_length>
+                                      </clade>
+                                    </clade>
+                                    <clade>
+                                      <branch_length>0.0615064987</branch_length>
+                                      <confidence type="unknown">95.0</confidence>
+                                      <clade>
+                                        <branch_length>0.0448262431</branch_length>
+                                        <confidence type="unknown">39.0</confidence>
+                                        <clade>
+                                          <branch_length>0.0354137137</branch_length>
+                                          <confidence type="unknown">13.0</confidence>
+                                          <clade>
+                                            <branch_length>0.03280267</branch_length>
+                                            <confidence type="unknown">17.0</confidence>
+                                            <clade>
+                                              <branch_length>0.028430525</branch_length>
+                                              <confidence type="unknown">25.0</confidence>
+                                              <clade>
+                                                <branch_length>0.0447927321</branch_length>
+                                                <confidence type="unknown">69.0</confidence>
+                                                <clade>
+                                                  <name>100.0:f__JACPRH01; g__JACPRH01</name>
+                                                  <branch_length>0.4351843017</branch_length>
+                                                </clade>
+                                                <clade>
+                                                  <name>100.0:f__JACQRY01; g__JACQRY01</name>
+                                                  <branch_length>0.3592298215</branch_length>
+                                                </clade>
+                                              </clade>
+                                              <clade>
+                                                <name>GB_GCA_002495315.1</name>
+                                                <branch_length>0.5763718364</branch_length>
+                                              </clade>
+                                            </clade>
+                                            <clade>
+                                              <name>100.0:f__UBA57</name>
+                                              <branch_length>0.1119473216</branch_length>
+                                            </clade>
+                                          </clade>
+                                          <clade>
+                                            <branch_length>0.0639298078</branch_length>
+                                            <confidence type="unknown">42.0</confidence>
+                                            <clade>
+                                              <name>100.0:f__CADDZS01; g__CADDZS01</name>
+                                              <branch_length>0.2912080965</branch_length>
+                                            </clade>
+                                            <clade>
+                                              <name>100.0:f__UBA183</name>
+                                              <branch_length>0.3326662047</branch_length>
+                                            </clade>
+                                          </clade>
+                                        </clade>
+                                        <clade>
+                                          <branch_length>0.045260413</branch_length>
+                                          <confidence type="unknown">39.0</confidence>
+                                          <clade>
+                                            <name>94.0:f__JACAEJ01</name>
+                                            <branch_length>0.0509248478</branch_length>
+                                          </clade>
+                                          <clade>
+                                            <name>GB_GCA_023266955.1</name>
+                                            <branch_length>0.4428243224</branch_length>
+                                          </clade>
+                                        </clade>
+                                      </clade>
+                                      <clade>
+                                        <name>GB_GCA_011605775.1</name>
+                                        <branch_length>0.434987768</branch_length>
+                                      </clade>
+                                    </clade>
+                                  </clade>
+                                  <clade>
+                                    <name>GB_GCA_021162925.1</name>
+                                    <branch_length>0.576982799</branch_length>
+                                  </clade>
+                                </clade>
+                                <clade>
+                                  <name>100.0:o__Conexivisphaerales</name>
+                                  <branch_length>0.1429609899</branch_length>
+                                  <clade>
+                                    <branch_length>0.092074885</branch_length>
+                                    <confidence type="unknown">100.0</confidence>
+                                    <clade>
+                                      <name>100.0:f__UBA164</name>
+                                      <branch_length>0.3164386827</branch_length>
+                                    </clade>
+                                    <clade>
+                                      <name>100.0:f__Conexivisphaeraceae</name>
+                                      <branch_length>0.3381935506</branch_length>
+                                    </clade>
+                                  </clade>
+                                  <clade>
+                                    <name>100.0:f__DTJL01</name>
+                                    <branch_length>0.3835286246</branch_length>
+                                  </clade>
+                                </clade>
+                              </clade>
+                              <clade>
+                                <name>GB_GCA_014361085.1</name>
+                                <branch_length>0.6552005562</branch_length>
+                              </clade>
+                            </clade>
+                            <clade>
+                              <name>100.0:o__Geothermarchaeales; f__JDFR-13</name>
+                              <branch_length>0.6369816357</branch_length>
+                            </clade>
+                          </clade>
+                          <clade>
+                            <branch_length>0.080340994</branch_length>
+                            <confidence type="unknown">65.0</confidence>
+                            <clade>
+                              <name>100.0:c__Nitrososphaeria_A; o__Caldarchaeales</name>
+                              <branch_length>0.4157874234</branch_length>
+                            </clade>
+                            <clade>
+                              <name>GB_GCA_003661605.2</name>
+                              <branch_length>1.106480363</branch_length>
+                            </clade>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <name>100.0:c__EX4484-205; o__EX4484-205</name>
+                          <branch_length>0.3556854597</branch_length>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>100.0:c__Bathyarchaeia</name>
+                        <branch_length>0.0831480602</branch_length>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <branch_length>0.098138811</branch_length>
+                      <confidence type="unknown">99.0</confidence>
+                      <clade>
+                        <name>44.0:c__Thermoprotei_A</name>
+                        <branch_length>0.0769347661</branch_length>
+                      </clade>
+                      <clade>
+                        <branch_length>0.0451051114</branch_length>
+                        <confidence type="unknown">35.0</confidence>
+                        <clade>
+                          <name>26.0:c__Thermoprotei</name>
+                          <branch_length>0.0455701617</branch_length>
+                        </clade>
+                        <clade>
+                          <name>75.0:c__Methanomethylicia</name>
+                          <branch_length>0.0564096279</branch_length>
+                        </clade>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <branch_length>0.0961554189</branch_length>
+                    <confidence type="unknown">47.0</confidence>
+                    <clade>
+                      <branch_length>0.0920330306</branch_length>
+                      <confidence type="unknown">35.0</confidence>
+                      <clade>
+                        <name>100.0:c__Korarchaeia; o__Korarchaeales</name>
+                        <branch_length>0.323876462</branch_length>
+                      </clade>
+                      <clade>
+                        <name>100.0:c__JANJXX01; o__JANJXX01; f__JANJXX01</name>
+                        <branch_length>0.782381978</branch_length>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>GB_GCA_011041895.1</name>
+                      <branch_length>0.9895395002</branch_length>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>52.0:p__Asgardarchaeota</name>
+                  <branch_length>0.0882302892</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <branch_length>0.113330339</branch_length>
+                <confidence type="unknown">100.0</confidence>
+                <clade>
+                  <name>100.0:p__Thermoplasmatota</name>
+                  <branch_length>0.0830481691</branch_length>
+                </clade>
+                <clade>
+                  <name>100.0:p__Halobacteriota</name>
+                  <branch_length>0.1152243412</branch_length>
+                  <clade>
+                    <branch_length>0.0983286572</branch_length>
+                    <confidence type="unknown">67.0</confidence>
+                    <clade>
+                      <name>100.0:c__Halobacteria</name>
+                      <branch_length>0.2297496432</branch_length>
+                      <clade>
+                        <name>100.0:o__Halobacteriales</name>
+                        <branch_length>0.2575388007</branch_length>
+                        <clade>
+                          <branch_length>0.1020465566</branch_length>
+                          <confidence type="unknown">100.0</confidence>
+                          <clade>
+                            <branch_length>0.0524617634</branch_length>
+                            <confidence type="unknown">98.0</confidence>
+                            <clade>
+                              <branch_length>0.0479914201</branch_length>
+                              <confidence type="unknown">72.0</confidence>
+                              <clade>
+                                <branch_length>0.0326686668</branch_length>
+                                <confidence type="unknown">27.0</confidence>
+                                <clade>
+                                  <branch_length>0.0307029038</branch_length>
+                                  <confidence type="unknown">13.0</confidence>
+                                  <clade>
+                                    <branch_length>0.0153676498</branch_length>
+                                    <confidence type="unknown">1.0</confidence>
+                                    <clade>
+                                      <branch_length>0.0216249478</branch_length>
+                                      <confidence type="unknown">17.0</confidence>
+                                      <clade>
+                                        <name>100.0:f__Natrialbaceae</name>
+                                        <branch_length>0.0312537085</branch_length>
+                                      </clade>
+                                      <clade>
+                                        <branch_length>0.0192959651</branch_length>
+                                        <confidence type="unknown">16.0</confidence>
+                                        <clade>
+                                          <branch_length>0.027839236</branch_length>
+                                          <confidence type="unknown">93.0</confidence>
+                                          <clade>
+                                            <name>100.0:f__QS-9-68-17; g__Halostella</name>
+                                            <branch_length>0.0820318766</branch_length>
+                                          </clade>
+                                          <clade>
+                                            <name>100.0:f__Natronoarchaeaceae; g__Natronoarchaeum</name>
+                                            <branch_length>0.0636905502</branch_length>
+                                          </clade>
+                                        </clade>
+                                        <clade>
+                                          <name>100.0:f__Salinarchaeaceae; g__Salinarchaeum</name>
+                                          <branch_length>0.0753232631</branch_length>
+                                        </clade>
+                                      </clade>
+                                    </clade>
+                                    <clade>
+                                      <branch_length>0.0243035096</branch_length>
+                                      <confidence type="unknown">16.0</confidence>
+                                      <clade>
+                                        <name>100.0:f__Haladaptataceae</name>
+                                        <branch_length>0.0622643004</branch_length>
+                                      </clade>
+                                      <clade>
+                                        <name>100.0:f__Halobacteriaceae</name>
+                                        <branch_length>0.0942866099</branch_length>
+                                      </clade>
+                                    </clade>
+                                  </clade>
+                                  <clade>
+                                    <branch_length>0.0175055452</branch_length>
+                                    <confidence type="unknown">8.0</confidence>
+                                    <clade>
+                                      <branch_length>0.0230440551</branch_length>
+                                      <confidence type="unknown">9.0</confidence>
+                                      <clade>
+                                        <name>100.0:f__Haloferacaceae</name>
+                                        <branch_length>0.0789401334</branch_length>
+                                      </clade>
+                                      <clade>
+                                        <name>99.0:f__Halalkalicoccaceae</name>
+                                        <branch_length>0.0813625964</branch_length>
+                                      </clade>
+                                    </clade>
+                                    <clade>
+                                      <branch_length>0.0238407511</branch_length>
+                                      <confidence type="unknown">65.0</confidence>
+                                      <clade>
+                                        <name>98.0:f__Haloarculaceae</name>
+                                        <branch_length>0.0254430039</branch_length>
+                                      </clade>
+                                      <clade>
+                                        <name>100.0:f__Halococcaceae; g__Halococcus</name>
+                                        <branch_length>0.0740250323</branch_length>
+                                      </clade>
+                                    </clade>
+                                  </clade>
+                                </clade>
+                                <clade>
+                                  <branch_length>0.029329455</branch_length>
+                                  <confidence type="unknown">38.0</confidence>
+                                  <clade>
+                                    <name>GB_GCA_003021085.1</name>
+                                    <branch_length>0.1977678062</branch_length>
+                                  </clade>
+                                  <clade>
+                                    <name>100.0:f__SW-7-71-33; g__SW-7-71-33</name>
+                                    <branch_length>0.0989421668</branch_length>
+                                  </clade>
+                                </clade>
+                              </clade>
+                              <clade>
+                                <name>GB_GCA_007122875.1</name>
+                                <branch_length>0.2355644974</branch_length>
+                              </clade>
+                            </clade>
+                            <clade>
+                              <name>100.0:f__SKNY01</name>
+                              <branch_length>0.1326805049</branch_length>
+                            </clade>
+                          </clade>
+                          <clade>
+                            <name>100.0:f__SKSH01; g__SKSH01</name>
+                            <branch_length>0.1961430185</branch_length>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <name>100.0:f__UBA12382; g__UBA12382</name>
+                          <branch_length>0.5043297998</branch_length>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>GB_GCA_018609935.1</name>
+                        <branch_length>0.710748545</branch_length>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>100.0:c__Methanonatronarchaeia</name>
+                      <branch_length>0.1583425797</branch_length>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <branch_length>0.0678491129</branch_length>
+                    <confidence type="unknown">71.0</confidence>
+                    <clade>
+                      <branch_length>0.0346672171</branch_length>
+                      <confidence type="unknown">23.0</confidence>
+                      <clade>
+                        <branch_length>0.0333409678</branch_length>
+                        <confidence type="unknown">31.0</confidence>
+                        <clade>
+                          <branch_length>0.0438420584</branch_length>
+                          <confidence type="unknown">40.0</confidence>
+                          <clade>
+                            <branch_length>0.0559377076</branch_length>
+                            <confidence type="unknown">30.0</confidence>
+                            <clade>
+                              <name>59.0:c__Methanosarcinia</name>
+                              <branch_length>0.0486399087</branch_length>
+                            </clade>
+                            <clade>
+                              <branch_length>0.0407704915</branch_length>
+                              <confidence type="unknown">89.0</confidence>
+                              <clade>
+                                <name>100.0:c__Methanocellia; o__Methanocellales; f__Methanocellaceae</name>
+                                <branch_length>0.3335611584</branch_length>
+                              </clade>
+                              <clade>
+                                <branch_length>0.0442191252</branch_length>
+                                <confidence type="unknown">53.0</confidence>
+                                <clade>
+                                  <name>100.0:c__UBA148; o__UBA148</name>
+                                  <branch_length>0.0970386717</branch_length>
+                                </clade>
+                                <clade>
+                                  <name>100.0:c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38</name>
+                                  <branch_length>0.4813684682</branch_length>
+                                </clade>
+                              </clade>
+                            </clade>
+                          </clade>
+                          <clade>
+                            <branch_length>0.0455221303</branch_length>
+                            <confidence type="unknown">13.0</confidence>
+                            <clade>
+                              <name>100.0:c__Methanomicrobia; o__Methanomicrobiales</name>
+                              <branch_length>0.4880000857</branch_length>
+                            </clade>
+                            <clade>
+                              <name>100.0:c__Methanosarcinia_A; o__Methanosarcinales_A; f__Methermicoccaceae</name>
+                              <branch_length>0.2301010753</branch_length>
+                            </clade>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <name>99.0:c__Syntropharchaeia</name>
+                          <branch_length>0.0529512052</branch_length>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>100.0:c__Methanoliparia; o__Methanoliparales; f__Methanoliparaceae</name>
+                        <branch_length>0.3903093813</branch_length>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>99.0:c__Archaeoglobi</name>
+                      <branch_length>0.0733893288</branch_length>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <branch_length>0.0445154374</branch_length>
+              <confidence type="unknown">40.0</confidence>
+              <clade>
+                <branch_length>0.0573590259</branch_length>
+                <confidence type="unknown">81.0</confidence>
+                <clade>
+                  <name>100.0:p__Methanobacteriota_B; c__Thermococci</name>
+                  <branch_length>0.114349839</branch_length>
+                </clade>
+                <clade>
+                  <name>54.0:p__Hadarchaeota</name>
+                  <branch_length>0.0584470767</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <branch_length>0.0324020343</branch_length>
+                <confidence type="unknown">25.0</confidence>
+                <clade>
+                  <name>17.0:p__Methanobacteriota</name>
+                  <branch_length>0.039001905</branch_length>
+                </clade>
+                <clade>
+                  <branch_length>0.0536201204</branch_length>
+                  <confidence type="unknown">41.0</confidence>
+                  <clade>
+                    <name>100.0:p__Hydrothermarchaeota; c__Hydrothermarchaeia; o__Hydrothermarchaeales</name>
+                    <branch_length>0.2896868821</branch_length>
+                  </clade>
+                  <clade>
+                    <name>GB_GCA_024860865.1</name>
+                    <branch_length>0.6421302961</branch_length>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <branch_length>0.0609087375</branch_length>
+            <confidence type="unknown">95.0</confidence>
+            <clade>
+              <branch_length>0.100372602</branch_length>
+              <confidence type="unknown">100.0</confidence>
+              <clade>
+                <name>100.0:p__Micrarchaeota; c__Micrarchaeia</name>
+                <branch_length>0.2292087234</branch_length>
+              </clade>
+              <clade>
+                <branch_length>0.0407004606</branch_length>
+                <confidence type="unknown">45.0</confidence>
+                <clade>
+                  <name>100.0:p__B1Sed10-29; c__B1Sed10-29</name>
+                  <branch_length>0.1160566132</branch_length>
+                </clade>
+                <clade>
+                  <name>100.0:p__Iainarchaeota; c__Iainarchaeia</name>
+                  <branch_length>0.0858655621</branch_length>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <name>100.0:p__Altiarchaeota; c__Altiarchaeia</name>
+              <branch_length>0.1903503743</branch_length>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <branch_length>0.036693236</branch_length>
+          <confidence type="unknown">72.0</confidence>
+          <clade>
+            <name>GB_GCA_013154095.1</name>
+            <branch_length>1.6355030258</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.0475495791</branch_length>
+            <confidence type="unknown">47.0</confidence>
+            <clade>
+              <name>100.0:p__SpSt-1190; c__SpSt-1190</name>
+              <branch_length>0.3372518044</branch_length>
+            </clade>
+            <clade>
+              <branch_length>0.0615144505</branch_length>
+              <confidence type="unknown">51.0</confidence>
+              <clade>
+                <branch_length>0.0316192782</branch_length>
+                <confidence type="unknown">32.0</confidence>
+                <clade>
+                  <branch_length>0.084287256</branch_length>
+                  <confidence type="unknown">99.0</confidence>
+                  <clade>
+                    <name>99.0:p__Aenigmatarchaeota; c__Aenigmatarchaeia</name>
+                    <branch_length>0.0831453411</branch_length>
+                  </clade>
+                  <clade>
+                    <branch_length>0.0914991447</branch_length>
+                    <confidence type="unknown">100.0</confidence>
+                    <clade>
+                      <name>100.0:p__Nanohaloarchaeota; c__Nanosalinia; o__Nanosalinales</name>
+                      <branch_length>0.377659317</branch_length>
+                      <clade>
+                        <branch_length>0.2012703539</branch_length>
+                        <confidence type="unknown">100.0</confidence>
+                        <clade>
+                          <name>100.0:f__Nanosalinaceae</name>
+                          <branch_length>0.3839743414</branch_length>
+                        </clade>
+                        <clade>
+                          <name>100.0:f__JALIDP01</name>
+                          <branch_length>0.0972040098</branch_length>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <branch_length>0.1270372824</branch_length>
+                        <confidence type="unknown">100.0</confidence>
+                        <clade>
+                          <name>GB_GCA_018609855.1</name>
+                          <branch_length>0.8344263417</branch_length>
+                        </clade>
+                        <clade>
+                          <name>GB_GCA_017610385.1</name>
+                          <branch_length>0.6523285244</branch_length>
+                        </clade>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>100.0:p__EX4484-52; c__EX4484-52; o__EX4484-52</name>
+                      <branch_length>0.1804023447</branch_length>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>GB_GCA_002789275.1</name>
+                  <branch_length>2.3541203648</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <name>66.0:p__Nanoarchaeota; c__Nanoarchaeia</name>
+                <branch_length>0.1296064861</branch_length>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

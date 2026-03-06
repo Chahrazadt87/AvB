@@ -1,106 +1,106 @@
 LABELS
 SEPARATOR COMMA
 DATA
-A0A9Q4KW36,Nitrosopumilus sp.
+A0A9Q4KW36,nan
 WP_247006115.1@GCF_023028225.1,Halorientalis litorea
-A0A4U7CKA7,Halorubrum sp. SD690R
-A0A2A3TCX4,Nitrososphaerota archaeon
+A0A4U7CKA7,nan
+A0A2A3TCX4,nan
 JAKCFJ010000003.1_583@GCA_025041175.1,Halocatena sp025041175
 M0PLF1,Halorubrum aidingense
-A0A6A7LJP9,Nitrososphaeraceae archaeon
-A0A7J9R018,Nitrosopumilaceae archaeon
-A0A830FVE2,Haloarcula argentinensis
+A0A6A7LJP9,nan
+A0A7J9R018,nan
+A0A830FVE2,nan
 A0A1G7U755,Halorientalis regularis
-A0A7K4NGF9,Marine Group I thaumarchaeote
-A0A3M6K3X3,Candidatus Nitrosomarinus sp.
-A0A081RPZ9,Marine Group I thaumarchaeote SCGC AAA799-N04
+A0A7K4NGF9,nan
+A0A3M6K3X3,Nitrosopumilus sp003702465
+A0A081RPZ9,Nitrosopumilus sp000746765
 WP_253482368.1@GCF_024138125.1,Halorussus sp024138125
 NZ_RDFA01000002.1_67,Halorientalis pallida
 PBZV01000007.1_28,Nitrosopumilus sp002730325
-A0A371M0N6,Haloferax sp. Atlit-4N
-A0A3N0A5P4,Nitrosopumilus sp. H8
-A0A3R7FRG0,Haloarcula sp. Atlit-47R
+A0A371M0N6,nan
+A0A3N0A5P4,nan
+A0A3R7FRG0,nan
 A0A1C7PEI3,Akkermansia glycaniphila
-M0KAD2,Haloarcula amylolytica
+M0KAD2,nan
 WP_136717420.1@GCF_005049285.1,Halorientalis salina
 NZ_CP101458.1_1831,Natronobiforma sp024362525
 WP_077207559.1@GCF_001989615.1,Halorientalis sp001989615
-A0A075I1P8,uncultured marine thaumarchaeote SAT1000_09_C08
-A0A495R8U6,Haloarcula quadrata
-A0A075GDE7,uncultured marine thaumarchaeote KM3_145_B06
+A0A075I1P8,nan
+A0A495R8U6,nan
+A0A075GDE7,nan
 NZ_CP035119.1_2382,Halorussus pelagicus
-A0A075GWP7,uncultured marine thaumarchaeote KM3_190_B07
+A0A075GWP7,nan
 A0A7D5RAF2,Nitrosopumilus oxyclinae
 JAHFUM010000012.1_40@GCA_023265135.1,Nitrosarchaeum sp023265135
-A0A1Q1FI16,Halorientalis sp. IM1011
-A0A6G2J725,Cenarchaeum sp. SB0667_bin_13
+A0A1Q1FI16,Halorientalis sp001989615
+A0A6G2J725,nan
 LKNH01000051.1_10@GCA_001564135.1,Halovenus sp001564135
 A0A1N6WQR0,Haladaptatus litoreus
 A0A368TZS8,Halomonas montanilacus
-M0FJT4,Haloferax sp. ATCC BAA-646
-A0A2E7RQV6,Candidatus Nitrosopelagicus sp.
+M0FJT4,nan
+A0A2E7RQV6,nan
 ARWO01000032.1_136@GCA_000402075.1,Nitrosopelagicus sp000402075
-A0A7J9QGH3,Nitrosopumilaceae archaeon
-A0A2G1WTW3,Halorubrum sp. C191
+A0A7J9QGH3,nan
+A0A2G1WTW3,nan
 NZ_CP019154.1_2373,Haloarcula taiwanensis
 CP094974.1_2033@GCA_022869805.1,JALIQP01 sp022869805
-A0A2H9RQQ8,Nitrosopumilales archaeon CG_4_9_14_0_2_um_filter_34_16
+A0A2H9RQQ8,Nitrosopumilus sp002788515
 MCH8834010.1@GCA_022574415.1,DRGT01 sp022574415
 JAANXA010000013.1_78,Nitrosopumilus sp018263505
-A0A654M5S1,Candidatus Nitrosocosmicus oleophilus
-A0A9E7STM1,Natronosalvus rutilus
-A0A075I6D6,uncultured marine thaumarchaeote SAT1000_09_B07
-A0A9D2X5K2,Nitrosopumilus sp. b1
-A0A4U7DR36,Halorubrum sp. SS7
+A0A654M5S1,Nitrosocosmicus oleophilus
+A0A9E7STM1,Tc-Br11 sp024204665
+A0A075I6D6,nan
+A0A9D2X5K2,PXYB01 sp014078545
+A0A4U7DR36,nan
 WP_049998595.1@GCF_000755245.1,Halococcus sediminicola
-A0A2V3IAA3,Nitrososphaerota archaeon
-A0A075HE99,uncultured marine thaumarchaeote KM3_57_B01
-A0A2H5A2J4,Haloarcula taiwanensis
+A0A2V3IAA3,Nitrosopelagicus sp012964965
+A0A075HE99,nan
+A0A2H5A2J4,nan
 JAFAQB010000083.1_12,JAFAQB01 sp019246625
 ML241305.1_276@GCA_005239435.1,Halorussus sp005239435
 JACZTB010000005.1_14,Nitrosopumilus sp022573895
-A0A843BN56,Nitrosopumilus sp.
+A0A843BN56,Nitrosopumilus sp016125975
 JAHFUX010000005.1_26,Nitrosarchaeum sp023264875
-A0A8T6U257,Nitrosopumilaceae archaeon
+A0A8T6U257,nan
 NZ_JAJCVI010000003.1_22,Halorubellus salinus
-A0A835SJB9,Nitrosopumilales archaeon
-A0A6B1A2I3,Cenarchaeum sp. SB0666_bin_15
+A0A835SJB9,CSP1-1 sp016276965
+A0A6B1A2I3,nan
 CACIXQ010000007.1_17,Nitrosopelagicus sp902590655
-M0HUC4,Haloferax elongans
+M0HUC4,nan
 WP_253435879.1@GCF_024138145.1,Tc-Br11 sp024138145
-A0A6C0UX32,Haloferax alexandrinus
+A0A6C0UX32,nan
 A0A7D3Y2G5,Halorubrum salinarum
 M0GTD3,Haloferax larsenii
 JALDAN010000039.1_7@GCA_022729355.1,Nanosalina sp022729355
-A0A842P7L1,Nitrosopumilus sp.
-A0A842Q411,Nitrososphaeraceae archaeon
+A0A842P7L1,nan
+A0A842Q411,nan
 RKRY01000155.1_12,Nitrosopumilus sp007571135
-E7QRC9,Haladaptatus paucihalophilus
+E7QRC9,nan
 JAKBAE010000044.1_2@GCA_021809325.1,JAKBAE01 sp021809325
-A0A498EH53,Haloferax sp. Atlit-105R
+A0A498EH53,nan
 WP_049971178.1@GCF_000710615.1,Haladaptatus cibarius
-A0A935SAT3,Gemmatimonadota bacterium
+A0A935SAT3,nan
 PXSA01000026.1_2,Halostella sp003023565
 LKML01000024.1_26@GCA_001563795.1,Halohasta sp001563795
 A0A1I4ECI6,Halogranum rubrum
-A0A835WXQ3,Nitrosopumilales archaeon
-A0A4U7CCV6,Halorubrum sp. ARQ200
-A0A5J5LDV1,Haloarcula sp. CBA1129
+A0A835WXQ3,nan
+A0A4U7CCV6,nan
+A0A5J5LDV1,nan
 NZ_MWLL01000195.1_30,R-H-3 sp002198675
-A0A7K4MYY1,Marine Group I thaumarchaeote
+A0A7K4MYY1,Nitrosopelagicus sp000484935
 NZ_CP084469.1_3577,Natrinema salinisoli
 WP_177316534.1@GCF_000685395.1,Nitrosotenuis chungbukensis
-A0A2G4JBX9,Nitrosarchaeum sp.
-A0A0K1IR80,Haloferax gibbonsii
+A0A2G4JBX9,nan
+A0A0K1IR80,nan
 M0I6U3,Haloferax mucosum
-A0A8B2HRE8,Nitrosopumilus sp. K4
+A0A8B2HRE8,Nitrosarchaeum A sp018128925
 PAAH01000002.1_2,Nitrosopelagicus sp002698885
 NZ_QLVG01000056.1_6,Halorussus litoreus
-A0A3M9ZSM0,Nitrosopumilus sp. D6
+A0A3M9ZSM0,Nitrosopumilus sp003724325
 JABSRD010000008.1_95,Nitrosopumilus sp013215285
-A0A3M9ZI66,Thaumarchaeota archaeon S13
+A0A3M9ZI66,Cenarchaeum sp003724275
 MBS0604555.1@GCA_018240065.1,CAJCHM01 sp018240065
-A0A498KWM4,Halorientalis pallida
+A0A498KWM4,nan
 JAATVK010000203.1_6@GCA_014523485.1,TH1177 sp014523485
 A0A285N4T7,Natronoarchaeum philippinense
 VMDM01000051.1_2,Nitrosopumilus sp008080815
@@ -108,323 +108,323 @@ A0A8J8C4B2,Halomicroarcula limicola
 WP_135851677.1@GCF_004765815.2,Halorussus salinus
 JAKCFM010000002.1_190@GCA_025041195.1,Halocatena sp025041195
 MCH2604145.1@GCA_022450565.1,Nitrosopelagicus sp022450565
-A0A2Z2HKI6,Candidatus Nitrosomarinus catalina
+A0A2Z2HKI6,Nitrosopumilus catalinensis
 CACHDH010000007.1_5@GCA_902578515.1,Nitrosopelagicus sp902578515
-A0A8T4XCF7,Nitrosarchaeum sp.
-pgaptmp_002090_1,Haloferax larsenii S5a-1
+A0A8T4XCF7,Nitrosarchaeum sp018334095
+pgaptmp_002090_1,Haloferax sp. S5a-1
 JAHEXS010000012.1_2,Nitrosotenuis sp023252015
-A0A2A3T0Y3,Nitrosopumilales archaeon
+A0A2A3T0Y3,nan
 A0A1M6QHW3,Haladaptatus paucihalophilus
 JAJRWR010000006.1_14,Nitrosopumilus sp024276695
-A0A5J4DVH6,archaeon MnTg01
-A0A075GXT2,uncultured marine thaumarchaeote KM3_199_C08
+A0A5J4DVH6,CSP1-1 sp008974855
+A0A075GXT2,nan
 WP_053947044.1@GCF_001282785.1,Halolamina sediminis
-A0A8J4XIH4,Nitrosopumilus sp. b2
+A0A8J4XIH4,nan
 JAATVP010000001.1_1@GCA_014523625.1,TH5896 sp014523625
-B3V596,uncultured marine crenarchaeote KM3-47-D6
+B3V596,nan
 A0A4D6HEL8,Halapricum salinum
 CABXPS010000018.1_21,Nitrosopumilus sp902514095
 A0A1G8V2I7,Natronorubrum texcoconense
 L9YW73,Natrinema gari
-A0A8T4KAN1,Nitrososphaerota archaeon
+A0A8T4KAN1,Nitrosopelagicus sp018263495
 JACNFR010000062.1_14,Nitrosopumilus sp014384555
-K0BD28,Candidatus Nitrosopumilus sediminis
-A0A075H3R4,uncultured marine thaumarchaeote KM3_31_F03
-A0A9C7Q5X0,Haladaptatus sp. T7
+K0BD28,Nitrosopumilus sediminis
+A0A075H3R4,nan
+A0A9C7Q5X0,nan
 RKSK01000029.1_5@GCA_007570915.1,Cenarchaeum sp007570915
-A0A256J1P2,Halorubrum ezzemoulense
-A0A1H7H3G6,Haloferax larsenii
+A0A256J1P2,nan
+A0A1H7H3G6,nan
 WP_158057723.1@GCF_008831545.1,Halorussus halophilus
-A0A371L4M6,Haloferax sp. Atlit-47N
-A0A075HPP9,uncultured marine thaumarchaeote KM3_74_C01
+A0A371L4M6,nan
+A0A075HPP9,nan
 A0A7D5M1Y7,Nitrosopumilus cobalaminigenes
-A0A6B1BBW2,Cenarchaeum sp. SB0663_bin_5
-A0A8T5EEX0,Nitrosopumilus sp.
+A0A6B1BBW2,VYCS01 sp009843815
+A0A8T5EEX0,nan
 I3R2Q4,Haloferax mediterranei
-A0A1H8HD95,Halorientalis persicus
+A0A1H8HD95,Halorientalis persica
 NZ_CP100445.1_3244,Natrinema sp024227435
 NZ_CP096658.1_2442,Halorussus sp023238445
-A0A166SG65,Haladaptatus sp. R4
+A0A166SG65,Haladaptatus sp001625445
 VXON01000101.1_7,VYCS01 sp009840065
-A0A371KGK7,Haloferax sp. Atlit-48N
+A0A371KGK7,nan
 WP_227774492.1@GCF_020700235.1,Haladaptatus pallidirubidus
 NZ_CP035119.1_1985,Halorussus pelagicus
 WP_250139651.1@GCF_023566055.1,JALIQP01 sp023566055
-S2EV40,Candidatus Nitrosarchaeum limnium
+S2EV40,nan
 NVWC01000001.1_171,Nitrosopumilus sp002317795
-A0A6G2K886,Cenarchaeum sp. SB0662_bin_33
+A0A6G2K886,nan
 JADDOQ010000026.1_22@GCA_016782315.1,Nitrosocosmicus sp016782315
-A0A075H1J6,uncultured marine thaumarchaeote KM3_42_G11
+A0A075H1J6,nan
 WP_256399177.1@GCF_024495425.1,Haloarchaeobius litoreus
-A0A7D5RI65,Nitrosarchaeum sp. AC2
+A0A7D5RI65,nan
 NZ_CP024808.1_386,Nitrosotenuis aquarius
-A0A371N295,Haloferax sp. Atlit-6N
-J3A527,Halogranum salarium
+A0A371N295,Haloferax gibbonsii
+J3A527,nan
 WP_220579815.1@GCF_019599505.1,Halomicroarcula nitratireducens
 JACRND010000156.1_2,Nitrosarchaeum sp016234975
-A0A895AJU1,Halobacterium sp. GSL-19
+A0A895AJU1,nan
 E7QUV3,Haladaptatus paucihalophilus
-A0A7Y5GJP4,Bryobacteraceae bacterium
-A0A368B0K9,Nitrosopumilus sp.
+A0A7Y5GJP4,nan
+A0A368B0K9,Nitrosopumilus sp002690535
 SCVO01000120.1_6,Nitrosotenuis sp004322465
 WHTU01000040.1_32,TH5896 sp009377575
-A0A1D2QC87,Haladaptatus sp. W1
-A0A6A7LH89,Nitrososphaeraceae archaeon
+A0A1D2QC87,nan
+A0A6A7LH89,TH5896 sp009377575
 WP_248907845.1@GCF_023276375.1,Halocatena sp023276375
 SKKJ01000166.1_8,Natronomonas sp007121575
-A0A498GIW2,Haloarcula sp. Atlit-7R
+A0A498GIW2,nan
 JAGQHE010000038.1_14,Nitrosopumilus sp020431995
 OMIR01000017.1_16@GCA_900299125.1,Nitrosotenuis sp900299125
-A0A0M9AR50,Halorubrum tropicale
-A0A846N5A7,Nitrosopumilaceae archaeon
+A0A0M9AR50,nan
+A0A846N5A7,JACEMX01 sp011773785
 A0A1G9TW67,Haloarchaeobius iranensis
-A0A421EJC6,Halorubrum sp. Atlit-8R
-A0A6B1D0G6,Cenarchaeum sp. SB0661_bin_35
+A0A421EJC6,nan
+A0A6B1D0G6,nan
 CAJWBY010000188.1_8@GCA_913020705.1,Colwellia A sp913020705
-A0A075I7C4,uncultured marine thaumarchaeote SAT1000_09_H09
-A0A1D2QAF5,Haladaptatus sp. W1
-A0A3M9ZTZ2,Nitrosopumilus sp. H13
-A0A847UIV1,Haloarcula argentinensis
+A0A075I7C4,nan
+A0A1D2QAF5,nan
+A0A3M9ZTZ2,Nitrosopumilus sp003724285
+A0A847UIV1,nan
 NZ_CP095487.1_324,Halorientalis marina
-A0A6B0YMN0,Cenarchaeum sp. SB0665_bin_23
-A0A812F5V9,Candidatus Nitrosotenuis uzonensis
+A0A6B0YMN0,nan
+A0A812F5V9,nan
 MCG3780453.1@GCA_022117465.1,Nitrosopumilus limneticus
 CACDFH010000003.1_72,Nitrosopelagicus sp902552015
-A0A835X6I0,Nitrosopumilales archaeon
+A0A835X6I0,JAEHKU01 sp016838825
 WP_227376033.1@GCF_020618475.1,Haladaptatus sp020618475
 NZ_JAKUHT010000013.1_56,Nocardioides sp022436705
 WP_231183056.1@GCF_021083305.1,Haladaptatus sp021083305
 WP_231184040.1@GCF_021083305.1,Haladaptatus sp021083305
 WP_129115263.1@GCF_004116405.1,Halegenticoccus tardaugens
 WP_250872200.1@GCF_023699475.1,Halomarina rubra
-L5NX43,Haloferax sp. BAB-2207
+L5NX43,nan
 A0A498L3X7,Halorientalis pallida
 WHSX01000035.1_12@GCA_009379865.1,Nitrosocosmicus sp009379865
-A0A3G1B5N0,Candidatus Nitrosotenuis cloacae
+A0A3G1B5N0,nan
 WP_083893876.1@GCF_000337515.1,Halovivax asiaticus
 JAHEFU010000095.1_2@GCA_024645305.1,JAHEFU01 sp024645305
 A0A7D5R6H4,Nitrosopumilus ureiphilus
 WP_253737567.1@GCF_024178165.1,Halohasta sp024178165
-A0A0N0BPM7,Haloarcula rubripromontorii
-A0A498EWB8,Halorubrum sp. Atlit-28R
-A0A7J9R9B0,Nitrosopumilaceae archaeon
-A0A238UNT3,Halorubrum ezzemoulense
+A0A0N0BPM7,nan
+A0A498EWB8,nan
+A0A7J9R9B0,JACEMX01 sp013867335
+A0A238UNT3,nan
 CABXQD010000010.1_10,Nitrosopumilus sp902514275
-A0A835X8W0,Nitrosopumilales archaeon
-A0A075GFP7,uncultured marine thaumarchaeote KM3_153_B11
-A0A6B1IMM7,Halorubrum terrestre
-A0A075GH36,uncultured marine thaumarchaeote KM3_164_C03
+A0A835X8W0,DRGT01 sp016838845
+A0A075GFP7,nan
+A0A6B1IMM7,nan
+A0A075GH36,nan
 WP_250874611.1@GCF_023699475.1,Halomarina rubra
 NZ_JANHDJ010000005.1_256,Halohasta litorea
 MCH7660965.1@GCA_022561895.1,Halalkalicoccus sp022561895
 NZ_ML974127.1_1407,Halorussus salinus
 JADDOW010000025.1_5@GCA_016782225.1,Nitrosocosmicus sp016782225
 RKRU01000084.1_8,Nitrosopumilus sp007571225
-A0A4U7D2X1,Halorubrum sp. ASP121
+A0A4U7D2X1,nan
 A0A498KX20,Halorientalis pallida
 NZ_CP100000.1_3638,Halorussus sp024138165
 NC_015948.1_2374,Haloarcula hispanica
-I3D2F8,Candidatus Nitrosopumilus salaria
+I3D2F8,Nitrosopumilus salaria
 A9A2E7,Nitrosopumilus maritimus
-A0A371MMW4,Haloferax sp. Atlit-12N
-A0A365T8R6,halophilic archaeon
-A0A3N0A8L1,Nitrosopumilus sp. B06
-I7CPQ6,Natrinema sp. J7-2
+A0A371MMW4,nan
+A0A365T8R6,Haladaptatus sp003298465
+A0A3N0A8L1,nan
+I7CPQ6,nan
 JAHRAL010000125.1_29@GCA_020027325.1,Cenarchaeum sp020027325
 WP_121740820.1@GCF_003670115.1,Natronorubrum halophilum
-A0A6G2KXP3,Cenarchaeum sp. SB0672_bin_9
+A0A6G2KXP3,nan
 NZ_AOLW01000046.1_30,Haloarcula amylolytica
 CP094974.1_1262@GCA_022869805.1,JALIQP01 sp022869805
 WP_254768748.1@GCF_024296665.1,AD-4 sp024296665
-A0A166S7I3,Haladaptatus sp. R4
-A0A8T5H8H0,Nitrosopumilus sp.
-A0A7D5REW5,Candidatus Nitrosotenuis sp. DW1
-A0A9D7DSH0,Gemmatimonadota bacterium
+A0A166S7I3,Haladaptatus sp001625445
+A0A8T5H8H0,nan
+A0A7D5REW5,Nitrosotenuis sp013407275
+A0A9D7DSH0,nan
 MBN2082604.1@GCA_016932385.1,JAFGCY01 sp016932385
-A0A960Z4Y2,bacterium
+A0A960Z4Y2,nan
 JAJXYX010000059.1_21@GCA_021780355.1,SZAS-17 sp021780355
 CACLNC010000026.1_1,Nitrosopelagicus sp902608175
-A0A371KTK3,Haloferax sp. Atlit-24N
+A0A371KTK3,nan
 JABJDB010000060.1_3,Nitrosopumilus sp018668425
-A0A838W7R1,Nitrosopumilus sp.
+A0A838W7R1,Nitrosocosmicus sp013821245
 JAKCFJ010000001.1_2967@GCA_025041175.1,Halocatena sp025041175
 A0RXE4,Cenarchaeum symbiosum
 MBT7252981.1@GCA_018691945.1,Nitrosopelagicus sp018691945
-A0A075HYC4,uncultured marine thaumarchaeote KM3_90_E04
+A0A075HYC4,nan
 NZ_BCNB01000006.1_1380,Haloarcula sp001485575
-A0A2E3KFS8,Nitrososphaerota archaeon
+A0A2E3KFS8,nan
 NZ_CP072036.1_2474,Akkermansia muciniphila B
-A0A3M9ZJB4,Thaumarchaeota archaeon S14
-A0A4P9TI00,Natrinema pallidum
+A0A3M9ZJB4,nan
+A0A4P9TI00,nan
 JAIOPB010000036.1_15,Nitrosarchaeum sp021414105
-A0A832VRI6,Candidatus Nitrosotenuis sp.
+A0A832VRI6,Nitrosotenuis sp002499525
 A0A2S2KSG3,Nitrosopumilus zosterae
-A0A832YBJ8,Candidatus Nitrosopelagicus sp.
+A0A832YBJ8,nan
 JAATVS010000204.1_2@GCA_014523695.1,TH5896 sp014523695
 PXRE01000005.1_33,PXRE01 sp003021085
-A0A3M6KE52,Nitrosopumilus sp.
+A0A3M6KE52,Nitrosopumilus sp003702525
 A0A6B0GHS1,Halomarina oriensis
-A0A4U7C1T6,Halorubrum sp. CGM5_25_10-8B
+A0A4U7C1T6,nan
 L9WEY7,Natronorubrum tibetense
 E7QRC8,Haladaptatus paucihalophilus
-A0A4U7EPI6,Halorubrum sp. SP9
-A0A1D2QC66,Haladaptatus sp. W1
-V6ASY8,Candidatus Nitrosotenuis uzonensis
+A0A4U7EPI6,nan
+A0A1D2QC66,nan
+V6ASY8,Nitrosotenuis uzonensis
 A0A0C5BVY9,Nitrosopumilus piranensis
 VHBH01000001.1_77,Nitrosotenuis sp016872055
-A0A075I3P8,uncultured marine thaumarchaeote SAT1000_09_B08
-A0A2R6GJ55,Halobacteriales archaeon QS_1_68_20
+A0A075I3P8,nan
+A0A2R6GJ55,PXRE01 sp003021085
 JAHELP010000009.1_11,Nitrosopumilus sp024644105
-A0A7J9QBH3,Nitrosopumilaceae archaeon
-A0A075IEY5,uncultured marine thaumarchaeote SAT1000_39_F02
+A0A7J9QBH3,Nitrosopumilus sp013867245
+A0A075IEY5,nan
 WP_136716585.1@GCF_005049285.1,Halorientalis salina
 NZ_CP011097.1_858,Nitrosotenuis cloacae
 NZ_RDFA01000002.1_66,Halorientalis pallida
-A0A8T6NBJ0,Nitrososphaerota archaeon
+A0A8T6NBJ0,nan
 NZ_JADDKQ010000016.1_86,Actinotalea solisilvae
-A0A7K4DSR9,Nitrosopumilus sp.
+A0A7K4DSR9,Nitrosopumilus sp013002265
 WP_158057523.1@GCF_008831545.1,Halorussus halophilus
-A0A7D7V958,Nitrosopumilus sp.
+A0A7D7V958,Nitrosopumilus sp014075315
 CAJQSE010000004.1_9,Nitrosopumilus sp905612485
-A0A842NU99,Nitrososphaerota archaeon
-A0A9D2X9D0,Nitrosopumilus sp. b3
-A0A871BD94,Haloferax gibbonsii
-A0A847TIE2,Haloarcula rubripromontorii
+A0A842NU99,nan
+A0A9D2X9D0,Nitrosopumilus sp014078525
+A0A871BD94,nan
+A0A847TIE2,nan
 NZ_AOII01000017.1_1,Natrinema pallidum
 CAJQSS010000005.1_76,Nitrosopumilus sp905616385
 L0IC65,Halovivax ruber
 WP_155119940.1@GCF_001280425.1,Haloarcula rubripromontorii
 NZ_CP035119.1_2836,Halorussus pelagicus
-A0A1Q1FMJ7,Halorientalis sp. IM1011
+A0A1Q1FMJ7,nan
 SYJQ01000011.1_8@GCA_005798405.1,Nitrosarchaeum sp005798405
 MBM3904681.1@GCA_016872015.1,Nitrosotenuis sp016872015
 M0NQ21,Halorubrum lipolyticum
-A0A075IB59,uncultured marine thaumarchaeote SAT1000_22_C02
+A0A075IB59,nan
 WP_101297784.1@GCF_002844195.1,Halegenticoccus soli
-A0A2R6KDZ0,Halobacteriales archaeon QS_9_68_17
-A0A9Q4GGG8,Halorutilus salinus
+A0A2R6KDZ0,nan
+A0A9Q4GGG8,nan
 WP_049970329.1@GCF_000710615.1,Haladaptatus cibarius
-A0A7K4P4Y1,Marine Group I thaumarchaeote
-A0A7K4FZD1,Nitrosarchaeum sp.
-A0A842PMT6,Haloferax sp. AS1
-M0GJN3,Haloferax lucentense
+A0A7K4P4Y1,Nitrosopumilus sp013390905
+A0A7K4FZD1,Nitrosarchaeum sp013140415
+A0A842PMT6,nan
+M0GJN3,nan
 B9LWQ7,Halorubrum lacusprofundi
-A0A4U7E2U8,Halorubrum sp. GN12_10-3_MGM
+A0A4U7E2U8,nan
 WP_158057020.1@GCF_008831545.1,Halorussus halophilus
 A0A1N6YR21,Haladaptatus litoreus
-A0A7K4MLA7,Marine Group I thaumarchaeote
-A0A5J5LPB7,Haloarcula hispanica
-A0A075GE09,uncultured marine thaumarchaeote KM3_151_D03
+A0A7K4MLA7,nan
+A0A5J5LPB7,nan
+A0A075GE09,nan
 JADJWG010000004.1_341,JADJWG01 sp016716475
 WP_256391121.1@GCF_024494695.1,Natronoarchaeum rubrum
-M0B9C6,Halovivax asiaticus
-A0A075GAR9,uncultured marine thaumarchaeote KM3_08_B06
-A0A498FGW4,Halorubrum sp. Atlit-9R
-A0A165LUI8,Haloarcula sp. K1
-M0DKL4,Halorubrum terrestre
-A0A7K4NE59,Marine Group I thaumarchaeote
-A0A3G1B276,Candidatus Nitrosotenuis cloacae
+M0B9C6,nan
+A0A075GAR9,nan
+A0A498FGW4,nan
+A0A165LUI8,nan
+M0DKL4,nan
+A0A7K4NE59,nan
+A0A3G1B276,Nitrosotenuis cloacae
 WP_148685693.1@GCF_001870125.1,Nitrosocosmicus hydrocola
 JAATVT010000039.1_1@GCA_014523685.1,TH5893 sp014523685
-A0A961AEL5,bacterium
+A0A961AEL5,JAHEFU01 sp022646745
 JAHFTO010000030.1_13@GCA_023269355.1,CAJCHM01 sp023269355
 NZ_AOLK01000012.1_176,Haloferax elongans
 A0A1H6RWL0,Halohasta litchfieldiae
-M0G1X4,Haloferax sp. ATCC BAA-645
-A0A514LCL5,Candidatus Nitrosopumilus sp. SW
+M0G1X4,nan
+A0A514LCL5,Nitrosopumilus sp006740685
 A0A1N6WQJ8,Haladaptatus litoreus
 LUPB01000013.1_2@GCA_001627235.1,Nitrosopelagicus sp001627235
 NZ_AP017569.1_163,Halorubrum trapanicum A
 WP_254269963.1@GCF_024218795.1,Halorussus sp024218795
-A0A3M9ZG92,Thaumarchaeota archaeon S15
-A0A842Q6H6,Nitrososphaeraceae archaeon
+A0A3M9ZG92,nan
+A0A842Q6H6,nan
 JAATVS010000148.1_17@GCA_014523695.1,TH5896 sp014523695
-M0K7H4,Haloarcula amylolytica
-A0A522XLP4,Candidatus Nitrosotenuis sp.
+M0K7H4,nan
+A0A522XLP4,nan
 NZ_JALIQP010000003.1_86,JALIQP01 sp023566055
 MBS0624539.1@GCA_018239895.1,SZAS-17 sp018239895
-A0A2H9R9P5,Nitrosopumilales archaeon CG_4_9_14_0_8_um_filter_34_10
+A0A2H9R9P5,nan
 JAATVR010000490.1_11@GCA_014523665.1,TH5896 sp014523665
-A0A6G3ZKK6,Halorussus sp. MSC15.2
-A0A3A5JEH7,Halococcus sp. IIIV-5B
-A0A3B8U8H5,Parachlamydiales bacterium
-A0A8J7ZMN7,Halorubellus sp. JP-L1
-M0PQK1,Halorubrum arcis
-A0A7K4NNL9,Marine Group I thaumarchaeote
+A0A6G3ZKK6,Halorussus sp010747475
+A0A3A5JEH7,nan
+A0A3B8U8H5,nan
+A0A8J7ZMN7,nan
+M0PQK1,nan
+A0A7K4NNL9,Nitrosopelagicus sp013390745
 NSIR01000010.1_25,Nitrosarchaeum sp002737445
 CACLIK010000014.1_4,Nitrosopelagicus sp902606965
 JACZUQ010000043.1_8,CSP1-1 sp022573065
-A0A075HF93,uncultured marine thaumarchaeote KM3_69_H10
-A0A9Q4L4D4,Natrinema salsiterrestre
+A0A075HF93,nan
+A0A9Q4L4D4,nan
 A0A0D6JRZ7,Haloferax massiliensis
-A0A2E0QGV4,Nitrososphaerota archaeon
+A0A2E0QGV4,nan
 A0A2P4NW45,Haloferax marisrubri
-A0A075HBL9,uncultured marine thaumarchaeote KM3_53_F08
-A0A521T9K2,Nitrosarchaeum sp.
-A0A7J9R3Z3,Nitrosopumilaceae archaeon
+A0A075HBL9,nan
+A0A521T9K2,Nitrosarchaeum sp004297665
+A0A7J9R3Z3,nan
 A0A8J8Q722,Natronococcus pandeyae
 CAJQMY010000047.1_14,Nitrosopumilus sp905479565
-A0A371LK82,Haloferax sp. Atlit-16N
+A0A371LK82,Haloferax prahovense
 JAKCFM010000002.1_30@GCA_025041195.1,Halocatena sp025041195
-A0A075HMJ5,uncultured marine thaumarchaeote KM3_78_D07
-A0A3N9U7C1,Halomonas sp. YLB-10
+A0A075HMJ5,nan
+A0A3N9U7C1,nan
 WP_254543733.1@GCF_024228315.1,Halomarina sp024228315
 JAATVK010000265.1_3@GCA_014523485.1,TH1177 sp014523485
-A0A654LUD5,Candidatus Nitrosocosmicus oleophilus
-A0A843CQI4,Candidatus Nitrosotenuis sp.
-A0A2R6HHF1,Halobacteriales archaeon QS_4_66_20
+A0A654LUD5,Nitrosocosmicus oleophilus
+A0A843CQI4,Nitrosotenuis sp016844685
+A0A2R6HHF1,Halovenus sp003021015
 WP_160134101.1@GCF_009900715.1,Halococcus salsus
 WP_058828042.1@GCF_001482285.1,Haloferax sp001482285
-A0A0R2NVM4,Nitrosopumilus sp. BACL13 MAG-121220-bin23
+A0A0R2NVM4,Nitrosopumilus sp001437625
 MCE9653533.1@GCA_021414365.1,Nitrosarchaeum sp021414365
-A0A1H8N4I1,Halorientalis persicus
+A0A1H8N4I1,Halorientalis persica
 WP_227376032.1@GCF_020618475.1,Haladaptatus sp020618475
 WP_132057481.1@GCF_004143485.2,Halorussus amylolyticus
-A0A075FKQ7,uncultured marine thaumarchaeote AD1000_19_G10
+A0A075FKQ7,nan
 LFLC01000043.1_14,Nitrosopumilus sp001543015
-A0A0B5GHC8,Haloarcula sp. CBA1115
-A0A842Q7N0,Nitrososphaeraceae archaeon
+A0A0B5GHC8,nan
+A0A842Q7N0,nan
 A0A0D5C1K9,Nitrosopumilus adriaticus
-A0A4U7DEZ2,Halorubrum sp. SP3
+A0A4U7DEZ2,nan
 WP_246982822.1@GCF_023028345.1,Halorientalis marina
 JAJNBK010000116.1_1,JAJNBK01 sp021155845
 A0A0W1R9H8,Haloprofundus marisrubri
-A0A8T5FD25,Candidatus Nitrosopelagicus sp.
+A0A8T5FD25,nan
 A0A1I6H827,Halorubrum sodomense
-A0A830EFI2,Haloarcula sebkhae
-A0A1H8HEB9,Halorientalis persicus
+A0A830EFI2,nan
+A0A1H8HEB9,Halorientalis persica
 WP_247729935.1@GCF_023093535.1,Halovivax limisalsi
 WP_235920789.1@GCF_009834785.1,Natronorubrum halalkaliphilum
-A0A9C7Q6P3,Haladaptatus sp. T7
-A0A1Y3A5X3,Halorubrum sp. SD683
-A0A3N5VVJ6,Nitrosopumilales archaeon
-A0A0T5ZCZ3,Thaumarchaeota archaeon CSP1-1
-A0A7C7XHU1,Candidatus Nitrosopelagicus sp.
-A0A4U7C745,Halorubrum sp. CGM4_25_10-8A
-A0A6G2KEU7,Cenarchaeum sp. SB0677_bin_16
+A0A9C7Q6P3,nan
+A0A1Y3A5X3,nan
+A0A3N5VVJ6,nan
+A0A0T5ZCZ3,CSP1-1 sp001443365
+A0A7C7XHU1,nan
+A0A4U7C745,nan
+A0A6G2KEU7,nan
 WP_227130723.1@GCF_020567525.1,Halorubellus salinus
 WP_225307709.1@GCF_008729015.1,Haloarcula sp008729015
-A0A482TKS1,Haloarcula hispanica
+A0A482TKS1,nan
 JAJETY010000012.1_34,Nitrosopumilus sp021268355
-A0A2V3I8A3,Nitrososphaerota archaeon
+A0A2V3I8A3,nan
 LFEZ01000001.1_8,Nitrosopelagicus sp001510295
-A0A2E9NXF5,Nitrososphaerota archaeon
+A0A2E9NXF5,nan
 WP_162477744.1@GCF_009898475.1,Nitrosopolaris sp009898475
 JAHELB010000056.1_2@GCA_024644385.1,JACEMX01 sp024644385
 WP_227355121.1@GCF_020614375.1,Haladaptatus sp020614375
 MBT3474036.1@GCA_018647405.1,Nitrosopelagicus sp018647405
-A0A5N1L6D8,Haloarcula sp. CBA1130
-A0A075I8Y5,uncultured marine thaumarchaeote SAT1000_09_C07
-A0A522YW28,Candidatus Nitrosotenuis sp.
+A0A5N1L6D8,nan
+A0A075I8Y5,nan
+A0A522YW28,nan
 WP_255169792.1@GCF_024362525.1,Natronobiforma sp024362525
 WP_135826158.1@GCF_004765785.1,Halorussus ruber
-A0A2R6JQA9,Halobacteriales archaeon QS_8_69_26
+A0A2R6JQA9,SW-7-71-33 sp003023195
 JAAUVF010000069.1_4,Nitrosarchaeum sp012030815
-A0A498EDQ7,Haloferax sp. Atlit-109R
-A0A7C2XPU6,Nitrosopumilus sp.
-K0B968,Candidatus Nitrosopumilus koreensis
-A0A2A3T353,Nitrosopumilales archaeon
-A0A3M6KE94,Candidatus Nitrosopelagicus sp.
+A0A498EDQ7,nan
+A0A7C2XPU6,DRGT01 sp011055585
+K0B968,Nitrosopumilus koreensis
+A0A2A3T353,nan
+A0A3M6KE94,nan
 NZ_AOJH01000035.1_32,Halorubrum kocurii
 NZ_JAJCVI010000003.1_361,Halorubellus salinus
 JADFJY010000033.1_9,Nitrosopumilus sp022565935
@@ -433,54 +433,54 @@ WP_247001299.1@GCF_023028105.1,JALIQP01 sp023028105
 WP_132058388.1@GCF_004143485.2,Halorussus amylolyticus
 JAKCFM010000001.1_752@GCA_025041195.1,Halocatena sp025041195
 WP_148685665.1@GCF_001870125.1,Nitrosocosmicus hydrocola
-A0A3M6KDF1,Nitrosopumilus sp.
+A0A3M6KDF1,Nitrosopumilus sp003702545
 NZ_JAAOIR010000004.1_201,Halorubellus sp011440375
-A0A6B1IKK2,Halorubrum terrestre
-F3KJK7,Candidatus Nitrosarchaeum limnium
-A0A0A7V1B0,Candidatus Nitrosopelagicus brevis
-G0HXH4,Haloarcula hispanica
-A0A370LUJ7,Thermoproteota archaeon
-A0A8U0HQS2,Halorussus limi
+A0A6B1IKK2,nan
+F3KJK7,Nitrosarchaeum limnae
+A0A0A7V1B0,Nitrosopelagicus brevis
+G0HXH4,nan
+A0A370LUJ7,PXYB01 sp003352285
+A0A8U0HQS2,Halorussus sp023238205
 NZ_BMPD01000001.1_190,Haloarcula sebkhae
 WP_237698801.1@GCF_000220175.1,Nitrosarchaeum koreense
 MCA9812424.1@GCA_020431985.1,Nitrosarchaeum A sp020431985
-A0A2G9MUG9,Nitrosopumilales archaeon CG11_big_fil_rev_8_21_14_0_20_33_24
+A0A2G9MUG9,nan
 A0A1G7U6M7,Halorientalis regularis
-A0A558G7K0,Haloferax volcanii
+A0A558G7K0,nan
 JAEMQG010000051.1_2,Nitrosarchaeum sp022758935
-B3T9R0,uncultured marine crenarchaeote HF4000_APKG7F19
+B3T9R0,nan
 A0A6B0GHB1,Halomarina oriensis
 M0EWG0,Halorubrum distributum
 A0A6B0T947,Halovenus carboxidivorans
-A0A7J4CPU3,Candidatus Nitrosopelagicus sp.
+A0A7J4CPU3,nan
 JAHRAJ010000053.1_7@GCA_020027365.1,JAHRAJ01 sp020027365
 WP_257300007.1@GCF_024609245.1,Haloarchaeobius sp024609245
-A0A8U0IEE7,Halorussus gelatinilyticus
-F9CX96,Nitrosarchaeum koreense
-A0A6G2KTU3,Cenarchaeum sp. SB0673_bin_9
+A0A8U0IEE7,nan
+F9CX96,nan
+A0A6G2KTU3,nan
 WP_254810097.1@GCF_024298845.1,Tc-Br11 sp024298845
 JAATVT010000096.1_7@GCA_014523685.1,TH5893 sp014523685
-A0A838YJC3,Nitrosopumilus sp.
-A0A3M6K0N5,Nitrosopumilus sp.
-A0A256J8C6,Halorubrum ezzemoulense
+A0A838YJC3,Nitrosopumilus sp013911135
+A0A3M6K0N5,Nitrosopumilus sp003702495
+A0A256J8C6,nan
 AOLX01000025.1_214,Haloarcula argentinensis
-A0A3R7G447,Haloarcula sp. Atlit-120R
+A0A3R7G447,nan
 A0A6M1T5C5,Fodinibius halophilus
 WP_247415690.1@GCF_023074835.1,Halomarina salina
 NZ_BBJP01000006.1_46,Halorubrum halophilum
-M0FRY2,Haloferax sp. ATCC BAA-644
-A0A2R6N584,Halobacteriales archaeon SW_8_66_22
-A0A7K4EXI0,Nitrosopumilus sp.
-A0A842NTQ9,Nitrosopumilus sp.
+M0FRY2,nan
+A0A2R6N584,nan
+A0A7K4EXI0,Nitrosopumilus sp013043295
+A0A842NTQ9,Nitrosopumilus sp014384445
 LFEY01000002.1_37,Nitrosopumilus sp001510275
-A0A371LCK8,Haloferax sp. Atlit-19N
+A0A371LCK8,nan
 MCH7968181.1@GCA_022564515.1,DRGT01 sp022564515
 JAKCFM010000001.1_1886@GCA_025041195.1,Halocatena sp025041195
 WP_227228331.1@GCF_020567425.1,Salinirubrum litoreum
 WP_201094664.1@GCF_016653465.1,Chromatium minus
-M0P7Z2,Halorubrum kocurii
-A0A1Y3AG32,Halorubrum sp. SD612
-A0A388QLV9,Nitrosarchaeum sp.
+M0P7Z2,nan
+A0A1Y3AG32,nan
+A0A388QLV9,Nitrosarchaeum sp003569705
 WP_252698912.1@GCF_023973145.1,Tc-Br11 sp023973145
 A0A1G7NPL8,Halorientalis regularis
 NZ_CP100756.1_2758,Natrinema sp024266705
@@ -488,15 +488,15 @@ WP_256300310.1@GCF_024464185.1,Haloarchaeobius salinus
 JABMOR010000028.1_17,Nitrosopumilus sp013203245
 WP_227774493.1@GCF_020700235.1,Haladaptatus pallidirubidus
 WP_178335851.1@GCF_013391105.1,Natronomonas salina
-A0A9C7Q647,Haladaptatus sp. T7
+A0A9C7Q647,nan
 JAKAJY010000012.1_2,Nitrosotenuis sp021824845
 NZ_AOLW01000036.1_19,Haloarcula amylolytica
 CP071596.1_2809@GCA_017357105.2,Tc-Br11 sp017357105
 JADKAQ010000016.1_53,SCN-70-22 sp016719105
 NZ_SOSC01000001.1_299,Halorientalis salina
-A0A838TZW7,Nitrosopumilus sp.
-A0A075HUK9,uncultured marine thaumarchaeote KM3_86_E11
-A0A7K4NUK8,Marine Group I thaumarchaeote
-A0A6G2KCY1,Cenarchaeum sp. SB0678_bin_8
-A0A9W4UWP2,Nitrosopumilaceae archaeon
-A0A836BMH8,Nitrosopumilales archaeon
+A0A838TZW7,nan
+A0A075HUK9,nan
+A0A7K4NUK8,Nitrosopelagicus sp013390785
+A0A6G2KCY1,nan
+A0A9W4UWP2,Nitrosopumilus sp900620265
+A0A836BMH8,nan

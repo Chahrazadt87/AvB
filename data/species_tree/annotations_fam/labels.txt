@@ -1,0 +1,81 @@
+LABELS
+SEPARATOR COMMA
+DATA
+100.0:p__Undinarchaeota; c__Undinarchaeia; o__Undinarchaeales,p: Undinarchaeota
+100.0:f__Nitrosopumilaceae,f: Nitrosopumilaceae
+100.0:f__Nitrososphaeraceae,f: Nitrososphaeraceae
+GB_GCA_002713325.1,f: UBA213
+100.0:f__Nitrosocaldaceae,f: Nitrosocaldaceae
+100.0:f__JACPRH01; g__JACPRH01,f: JACPRH01
+100.0:f__JACQRY01; g__JACQRY01,f: JACQRY01
+GB_GCA_002495315.1,f: UBA141
+100.0:f__UBA57,f: UBA57
+100.0:f__CADDZS01; g__CADDZS01,f: CADDZS01
+100.0:f__UBA183,f: UBA183
+94.0:f__JACAEJ01,f: JACAEJ01
+GB_GCA_023266955.1,f: JAHFOH01
+GB_GCA_011605775.1,f: JAAOZN01
+GB_GCA_021162925.1,f: JAGGXQ01
+100.0:f__UBA164,f: UBA164
+100.0:f__Conexivisphaeraceae,f: Conexivisphaeraceae
+100.0:f__DTJL01,f: DTJL01
+GB_GCA_014361085.1,f: JACIWG01
+100.0:o__Geothermarchaeales; f__JDFR-13,f: JDFR-13
+100.0:c__Nitrososphaeria_A; o__Caldarchaeales,c: Nitrososphaeria A
+GB_GCA_003661605.2,c: QMWL01
+100.0:c__EX4484-205; o__EX4484-205,c: EX4484-205
+100.0:c__Bathyarchaeia,c: Bathyarchaeia
+44.0:c__Thermoprotei_A,c: Thermoprotei A
+26.0:c__Thermoprotei,c: Thermoprotei
+75.0:c__Methanomethylicia,c: Methanomethylicia
+100.0:c__Korarchaeia; o__Korarchaeales,c: Korarchaeia
+100.0:c__JANJXX01; o__JANJXX01; f__JANJXX01,c: JANJXX01
+GB_GCA_011041895.1,c: DRAE01
+52.0:p__Asgardarchaeota,p: Asgardarchaeota
+100.0:p__Thermoplasmatota,p: Thermoplasmatota
+100.0:f__Natrialbaceae,f: Natrialbaceae
+100.0:f__QS-9-68-17; g__Halostella,f: QS-9-68-17
+100.0:f__Natronoarchaeaceae; g__Natronoarchaeum,f: Natronoarchaeaceae
+100.0:f__Salinarchaeaceae; g__Salinarchaeum,f: Salinarchaeaceae
+100.0:f__Haladaptataceae,f: Haladaptataceae
+100.0:f__Halobacteriaceae,f: Halobacteriaceae
+100.0:f__Haloferacaceae,f: Haloferacaceae
+99.0:f__Halalkalicoccaceae,f: Halalkalicoccaceae
+98.0:f__Haloarculaceae,f: Haloarculaceae
+100.0:f__Halococcaceae; g__Halococcus,f: Halococcaceae
+GB_GCA_003021085.1,f: PXRE01
+100.0:f__SW-7-71-33; g__SW-7-71-33,f: SW-7-71-33
+GB_GCA_007122875.1,f: QS-1-68-20
+100.0:f__SKNY01,f: SKNY01
+100.0:f__SKSH01; g__SKSH01,f: SKSH01
+100.0:f__UBA12382; g__UBA12382,f: UBA12382
+GB_GCA_018609935.1,f: JAHENH01
+100.0:c__Methanonatronarchaeia,c: Methanonatronarchaeia
+59.0:c__Methanosarcinia,c: Methanosarcinia
+100.0:c__Methanocellia; o__Methanocellales; f__Methanocellaceae,c: Methanocellia
+100.0:c__UBA148; o__UBA148,c: UBA148
+100.0:c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38,c: Bog-38
+100.0:c__Methanomicrobia; o__Methanomicrobiales,c: Methanomicrobia
+100.0:c__Methanosarcinia_A; o__Methanosarcinales_A; f__Methermicoccaceae,c: Methanosarcinia A
+99.0:c__Syntropharchaeia,c: Syntropharchaeia
+100.0:c__Methanoliparia; o__Methanoliparales; f__Methanoliparaceae,c: Methanoliparia
+99.0:c__Archaeoglobi,c: Archaeoglobi
+100.0:p__Methanobacteriota_B; c__Thermococci,p: Methanobacteriota B
+54.0:p__Hadarchaeota,p: Hadarchaeota
+17.0:p__Methanobacteriota,p: Methanobacteriota
+100.0:p__Hydrothermarchaeota; c__Hydrothermarchaeia; o__Hydrothermarchaeales,p: Hydrothermarchaeota
+GB_GCA_024860865.1,p: JACRDV01
+100.0:p__Micrarchaeota; c__Micrarchaeia,p: Micrarchaeota
+100.0:p__B1Sed10-29; c__B1Sed10-29,p: B1Sed10-29
+100.0:p__Iainarchaeota; c__Iainarchaeia,p: Iainarchaeota
+100.0:p__Altiarchaeota; c__Altiarchaeia,p: Altiarchaeota
+GB_GCA_013154095.1,p: JAADDD01
+100.0:p__SpSt-1190; c__SpSt-1190,p: SpSt-1190
+99.0:p__Aenigmatarchaeota; c__Aenigmatarchaeia,p: Aenigmatarchaeota
+100.0:f__Nanosalinaceae,f: Nanosalinaceae
+100.0:f__JALIDP01,f: JALIDP01
+GB_GCA_018609855.1,p: Nanohaloarchaeota
+GB_GCA_017610385.1,p: Nanohaloarchaeota
+100.0:p__EX4484-52; c__EX4484-52; o__EX4484-52,p: EX4484-52
+GB_GCA_002789275.1,p: Huberarchaeota
+66.0:p__Nanoarchaeota; c__Nanoarchaeia,p: Nanoarchaeota

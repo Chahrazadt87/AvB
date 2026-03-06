@@ -1,0 +1,167 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>d__Archaea</name>
+      <clade>
+        <name>100.0:p__Undinarchaeota; c__Undinarchaeia; o__Undinarchaeales</name>
+        <branch_length>0.2611770274</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.2611770274</branch_length>
+        <confidence type="unknown">100.0</confidence>
+        <clade>
+          <branch_length>0.0527608017</branch_length>
+          <confidence type="unknown">80.0</confidence>
+          <clade>
+            <branch_length>0.1075794633</branch_length>
+            <confidence type="unknown">93.0</confidence>
+            <clade>
+              <branch_length>0.0363666195</branch_length>
+              <confidence type="unknown">70.0</confidence>
+              <clade>
+                <branch_length>0.1798167948</branch_length>
+                <confidence type="unknown">100.0</confidence>
+                <clade>
+                  <name>49.0:p__Thermoproteota</name>
+                  <branch_length>0.05919327</branch_length>
+                </clade>
+                <clade>
+                  <name>52.0:p__Asgardarchaeota</name>
+                  <branch_length>0.0882302892</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <branch_length>0.113330339</branch_length>
+                <confidence type="unknown">100.0</confidence>
+                <clade>
+                  <name>100.0:p__Thermoplasmatota</name>
+                  <branch_length>0.0830481691</branch_length>
+                </clade>
+                <clade>
+                  <name>100.0:p__Halobacteriota</name>
+                  <branch_length>0.1152243412</branch_length>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <branch_length>0.0445154374</branch_length>
+              <confidence type="unknown">40.0</confidence>
+              <clade>
+                <branch_length>0.0573590259</branch_length>
+                <confidence type="unknown">81.0</confidence>
+                <clade>
+                  <name>100.0:p__Methanobacteriota_B; c__Thermococci</name>
+                  <branch_length>0.114349839</branch_length>
+                </clade>
+                <clade>
+                  <name>54.0:p__Hadarchaeota</name>
+                  <branch_length>0.0584470767</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <branch_length>0.0324020343</branch_length>
+                <confidence type="unknown">25.0</confidence>
+                <clade>
+                  <name>17.0:p__Methanobacteriota</name>
+                  <branch_length>0.039001905</branch_length>
+                </clade>
+                <clade>
+                  <branch_length>0.0536201204</branch_length>
+                  <confidence type="unknown">41.0</confidence>
+                  <clade>
+                    <name>100.0:p__Hydrothermarchaeota; c__Hydrothermarchaeia; o__Hydrothermarchaeales</name>
+                    <branch_length>0.2896868821</branch_length>
+                  </clade>
+                  <clade>
+                    <name>GB_GCA_024860865.1</name>
+                    <branch_length>0.6421302961</branch_length>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <branch_length>0.0609087375</branch_length>
+            <confidence type="unknown">95.0</confidence>
+            <clade>
+              <branch_length>0.100372602</branch_length>
+              <confidence type="unknown">100.0</confidence>
+              <clade>
+                <name>100.0:p__Micrarchaeota; c__Micrarchaeia</name>
+                <branch_length>0.2292087234</branch_length>
+              </clade>
+              <clade>
+                <branch_length>0.0407004606</branch_length>
+                <confidence type="unknown">45.0</confidence>
+                <clade>
+                  <name>100.0:p__B1Sed10-29; c__B1Sed10-29</name>
+                  <branch_length>0.1160566132</branch_length>
+                </clade>
+                <clade>
+                  <name>100.0:p__Iainarchaeota; c__Iainarchaeia</name>
+                  <branch_length>0.0858655621</branch_length>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <name>100.0:p__Altiarchaeota; c__Altiarchaeia</name>
+              <branch_length>0.1903503743</branch_length>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <branch_length>0.036693236</branch_length>
+          <confidence type="unknown">72.0</confidence>
+          <clade>
+            <name>GB_GCA_013154095.1</name>
+            <branch_length>1.6355030258</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.0475495791</branch_length>
+            <confidence type="unknown">47.0</confidence>
+            <clade>
+              <name>100.0:p__SpSt-1190; c__SpSt-1190</name>
+              <branch_length>0.3372518044</branch_length>
+            </clade>
+            <clade>
+              <branch_length>0.0615144505</branch_length>
+              <confidence type="unknown">51.0</confidence>
+              <clade>
+                <branch_length>0.0316192782</branch_length>
+                <confidence type="unknown">32.0</confidence>
+                <clade>
+                  <branch_length>0.084287256</branch_length>
+                  <confidence type="unknown">99.0</confidence>
+                  <clade>
+                    <name>99.0:p__Aenigmatarchaeota; c__Aenigmatarchaeia</name>
+                    <branch_length>0.0831453411</branch_length>
+                  </clade>
+                  <clade>
+                    <branch_length>0.0914991447</branch_length>
+                    <confidence type="unknown">100.0</confidence>
+                    <clade>
+                      <name>100.0:p__Nanohaloarchaeota; c__Nanosalinia; o__Nanosalinales</name>
+                      <branch_length>0.377659317</branch_length>
+                    </clade>
+                    <clade>
+                      <name>100.0:p__EX4484-52; c__EX4484-52; o__EX4484-52</name>
+                      <branch_length>0.1804023447</branch_length>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>GB_GCA_002789275.1</name>
+                  <branch_length>2.3541203648</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <name>66.0:p__Nanoarchaeota; c__Nanoarchaeia</name>
+                <branch_length>0.1296064861</branch_length>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
