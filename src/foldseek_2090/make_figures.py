@@ -59,7 +59,7 @@ def build_table(ava, exclude=(), suffix=''):
     return table, explained, sim, ids
 
 
-def scatter_pcoa(ax, t, color_col, colors, order, explained, legend_title, label_offset=(0.08, 0.12)):
+def scatter_pcoa(ax, t, color_col, colors, order, explained, legend_title, label_offset=(0.08, 0.12), legend_ncol=2):
     q = t.loc[QUERY]
     rest = t[t.has_structure].drop(QUERY)
     for k in order:
@@ -73,25 +73,22 @@ def scatter_pcoa(ax, t, color_col, colors, order, explained, legend_title, label
     ax.set_xlabel(f'PCo1 ({explained[0]:.0%})')
     ax.set_ylabel(f'PCo2 ({explained[1]:.0%})')
     handles, labels = ax.get_legend_handles_labels()
-    leg = ax.legend(handles[::-1], labels[::-1], title=legend_title, title_fontsize=7, frameon=False, ncol=2, fontsize=6.5,
+    leg = ax.legend(handles[::-1], labels[::-1], title=legend_title, title_fontsize=7, frameon=False, ncol=legend_ncol, fontsize=6.5,
                     loc='upper center', bbox_to_anchor=(0.5, -0.2), handletextpad=0.2, columnspacing=0.8)
     for h in leg.legendHandles:
         h.set_sizes([15])
 
 
-def figure_domain(t, explained, suffix='', label_offset=(0.08, 0.12)):
+def ranked_by_similarity(t):
     s = t.drop(QUERY).sort_values('tm_to_2090', ascending=False)
     s = s[s.has_structure].copy()
     s['similarity_rank'] = np.arange(1, len(s) + 1)
+    return s
 
-    fig, axes = plt.subplots(1, 2, figsize=(7.2, 3), gridspec_kw={'width_ratios': [1, 1], 'wspace': 0.35})
 
-    ax = axes[0]
-    scatter_pcoa(ax, t, 'domain', DOMAIN_COLORS, DOMAIN_ORDER, explained, 'Domain', label_offset)
-    ax.set_title('A  Structural similarity space', loc='left', fontweight='bold')
-
-    ax = axes[1]
-    top = s[s.similarity_rank <= 600]
+def panel_neighbours(ax, t, n=600):
+    s = ranked_by_similarity(t)
+    top = s[s.similarity_rank <= n]
     for k in DOMAIN_ORDER:
         d = top[top.domain == k]
         ax.scatter(d.similarity_rank, d.tm_to_2090, s=5, lw=0, color=DOMAIN_COLORS[k], label=k, rasterized=True)
@@ -101,11 +98,40 @@ def figure_domain(t, explained, suffix='', label_offset=(0.08, 0.12)):
             fontsize=7, va='top', color='grey')
     ax.set_xlabel('Rank of structural similarity to cinquedea')
     ax.set_ylabel('TM-score to cinquedea')
+    return s
+
+
+def figure_domain(t, explained, suffix='', label_offset=(0.08, 0.12)):
+    fig, axes = plt.subplots(1, 2, figsize=(7.2, 3), gridspec_kw={'width_ratios': [1, 1], 'wspace': 0.35})
+
+    ax = axes[0]
+    scatter_pcoa(ax, t, 'domain', DOMAIN_COLORS, DOMAIN_ORDER, explained, 'Domain', label_offset)
+    ax.set_title('A  Structural similarity space', loc='left', fontweight='bold')
+
+    ax = axes[1]
+    s = panel_neighbours(ax, t)
     ax.set_title('B  Nearest structural neighbours', loc='left', fontweight='bold')
 
     fig.savefig(f'{FIG}/fig_foldseek_domain{suffix}.pdf', bbox_inches='tight')
     fig.savefig(f'{FIG}/fig_foldseek_domain{suffix}.png', bbox_inches='tight', dpi=300)
     return s
+
+
+def figure_combined(t, explained, suffix='', label_offset=(0.08, 0.12)):
+    """PCoA by domain, PCoA by Pfam domain and nearest structural neighbours, in one row."""
+    fig, axes = plt.subplots(1, 3, figsize=(10, 3.2), gridspec_kw={'wspace': 0.4})
+
+    scatter_pcoa(axes[0], t, 'domain', DOMAIN_COLORS, DOMAIN_ORDER, explained, 'Domain', label_offset, legend_ncol=1)
+    axes[0].set_title('A  Domain of life', loc='left', fontweight='bold')
+
+    scatter_pcoa(axes[1], t, 'category', PFAM_COLORS, PFAM_ORDER[::-1], explained, 'Pfam domain', label_offset, legend_ncol=1)
+    axes[1].set_title('B  Pfam domains', loc='left', fontweight='bold')
+
+    panel_neighbours(axes[2], t)
+    axes[2].set_title('C  Nearest structural neighbours', loc='left', fontweight='bold')
+
+    fig.savefig(f'{FIG}/fig_foldseek_combined{suffix}.pdf', bbox_inches='tight')
+    fig.savefig(f'{FIG}/fig_foldseek_combined{suffix}.png', bbox_inches='tight', dpi=300)
 
 
 def figure_duf900(t, explained, suffix='', label_offset=(0.08, 0.12)):
@@ -150,7 +176,9 @@ if __name__ == '__main__':
     table, explained, sim, ids = build_table(ava)
     figure_domain(table, explained)
     figure_duf900(table, explained)
+    figure_combined(table, explained)
 
     table, explained, sim, ids = build_table(ava, exclude=['Eukaryota'], suffix='_no_eukaryotes')
     figure_domain(table, explained, suffix='_no_eukaryotes', label_offset=(0.12, -0.08))
     figure_duf900(table, explained, suffix='_no_eukaryotes', label_offset=(0.12, -0.08))
+    figure_combined(table, explained, suffix='_no_eukaryotes', label_offset=(0.12, -0.08))
