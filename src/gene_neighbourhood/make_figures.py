@@ -47,7 +47,7 @@ FIG = W / 'figures'
 
 def family_label(family, pfam):
     arch = pfam.get(family)
-    return arch.split('+')[0] if isinstance(arch, str) else 'no Pfam'
+    return arch.split('+')[0] if isinstance(arch, str) else 'Conserved (no Pfam)'
 
 
 def relative_positions(nb, genes):
@@ -198,15 +198,15 @@ def figure_top(window_kb, genes, pfam, n=10, by='species', n_colors=12):
                 color='grey', ha='right', va='bottom', transform=ax.get_xaxis_transform())
 
     handles = [Patch(color=CINQUEDEA_COLOR, label='Cinquedea homolog')]
-    unannotated = 0
+    unannotated = [f for f in shared if not isinstance(pfam.get(f), str)]
     for f in shared:
         arch = pfam.get(f)
         if isinstance(arch, str):
             # First two Pfam domains of the representative (N- to C-terminal)
             label = ' + '.join(arch.split('+')[:2])
         else:
-            unannotated += 1
-            label = f'Unannotated family {unannotated}'
+            number = f' #{unannotated.index(f) + 1}' if len(unannotated) > 1 else ''
+            label = f'Conserved{number} (no Pfam)'
         handles.append(Patch(color=colors[f], label=label))
     handles.append(Patch(color='#e6e6e6', label='Other'))
     fig.legend(handles=handles, loc='upper center', bbox_to_anchor=(0.5, 0.02), ncol=3, frameon=False, fontsize=6.5)
