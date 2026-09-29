@@ -144,17 +144,18 @@ def figure_main(window_kb, genes, pfam):
     fig.savefig(FIG / f'fig_neighbourhood_{window_kb}kb.png', bbox_inches='tight', dpi=300)
 
 
-def select_homologs(homologs, by, n):
+def select_homologs(homologs, by, n, clade=None):
     """Top homologs by search score, one per GTDB species or genus (cinquedea first)."""
     h = homologs.dropna(subset=['gene_id']).copy()
+    if clade is not None:
+        h = h[(h.gtdb_class == clade) | (h.genome == QUERY_GENOME)]
     h['search_bitscore'] = h.search_bitscore.fillna(np.inf)
     h['species'] = h.gtdb_species.fillna('Haloferax larsenii s5a-1')
     h['genus'] = h.species.str.split(' ').str[0]
     return h.sort_values('search_bitscore', ascending=False).drop_duplicates(by).head(n)
 
 
-def figure_top(window_kb, genes, pfam, n=10, by='species', n_colors=12):
-    top = select_homologs(load_homologs(), by, n)
+def gene_map_windows(genes, top, window_kb):
     g = genes.set_index('gene_id')
     windows = []
     for _, h in top.iterrows():
@@ -162,15 +163,21 @@ def figure_top(window_kb, genes, pfam, n=10, by='species', n_colors=12):
         c = genes[(genes.contig == a.contig) & (genes.end >= a.start - window_kb * 1000) &
                   (genes.start <= a.end + window_kb * 1000)].sort_values('start')
         windows.append((h, a, c))
+    return windows
 
-    # Colour the families shared by most of the displayed neighbourhoods
-    anchor_families = set(top.gene_id.map(g.family))
+
+def shared_family_colors(windows, n_colors=12):
+    """Colour the families shared by most of the displayed neighbourhoods."""
+    anchor_families = {a.family for _, a, _ in windows}
     counts = pd.Series([f for _, _, c in windows for f in set(c.family.dropna()) - anchor_families]).value_counts()
-    shared = list(counts[counts >= 2].index[:n_colors])
+    # Most shared first; ties broken by family identifier so that colours are reproducible
+    ranked = sorted(counts[counts >= 2].index, key=lambda f: (-counts[f], f))
+    shared = ranked[:n_colors]
     palette = [c for c in palette_20 if c not in (CINQUEDEA_COLOR, '#808080', '#fffac8', '#ffe119')]
-    colors = {f: palette[i] for i, f in enumerate(shared)}
+    return shared, {f: palette[i] for i, f in enumerate(shared)}
 
-    fig, axes = plt.subplots(len(windows), 1, figsize=(7.2, 0.55 * len(windows)))
+
+def draw_gene_maps(axes, windows, colors, window_kb, species_fontsize=7, genome_fontsize=6):
     span = window_kb * 1000
     for ax, (h, a, c) in zip(axes, windows):
         flip = a.strand == '-'
@@ -192,24 +199,45 @@ def figure_top(window_kb, genes, pfam, n=10, by='species', n_colors=12):
         record.plot(ax=ax, with_ruler=False, draw_line=True)
         ax.set_xlim(-span, span + length)
         ax.set_ylim(-1, 1)
-        label = h.species if by == 'species' else f'{h.species}'
-        ax.text(-span, 0.95, label, fontsize=7, fontstyle='italic', va='bottom', transform=ax.get_xaxis_transform())
-        ax.text(span + length, 0.95, 'this study' if h.genome == QUERY_GENOME else h.genome, fontsize=6,
+        ax.text(-span, 0.95, h.species, fontsize=species_fontsize, fontstyle='italic', va='bottom',
+                transform=ax.get_xaxis_transform())
+        ax.text(span + length, 0.95, 'this study' if h.genome == QUERY_GENOME else h.genome, fontsize=genome_fontsize,
                 color='grey', ha='right', va='bottom', transform=ax.get_xaxis_transform())
 
-    handles = [Patch(color=CINQUEDEA_COLOR, label='Cinquedea homolog')]
-    unannotated = [f for f in shared if not isinstance(pfam.get(f), str)]
-    for f in shared:
+
+def family_names(families, pfam):
+    """Short family names: first two Pfam domains, or 'Conserved #N (no Pfam)'."""
+    families = list(dict.fromkeys(families))
+    unannotated = [f for f in families if not isinstance(pfam.get(f), str)]
+    names = {}
+    for f in families:
         arch = pfam.get(f)
         if isinstance(arch, str):
             # First two Pfam domains of the representative (N- to C-terminal)
-            label = ' + '.join(arch.split('+')[:2])
+            names[f] = ' + '.join(arch.split('+')[:2])
         else:
             number = f' #{unannotated.index(f) + 1}' if len(unannotated) > 1 else ''
-            label = f'Conserved{number} (no Pfam)'
-        handles.append(Patch(color=colors[f], label=label))
+            names[f] = f'Conserved{number} (no Pfam)'
+    return names
+
+
+def family_legend_handles(shared, colors, pfam, names=None):
+    names = names or family_names(shared, pfam)
+    handles = [Patch(color=CINQUEDEA_COLOR, label='Cinquedea homolog')]
+    for f in shared:
+        handles.append(Patch(color=colors[f], label=names[f]))
     handles.append(Patch(color='#e6e6e6', label='Other'))
-    fig.legend(handles=handles, loc='upper center', bbox_to_anchor=(0.5, 0.02), ncol=3, frameon=False, fontsize=6.5)
+    return handles
+
+
+def figure_top(window_kb, genes, pfam, n=10, by='species', n_colors=12):
+    windows = gene_map_windows(genes, select_homologs(load_homologs(), by, n), window_kb)
+    shared, colors = shared_family_colors(windows, n_colors)
+
+    fig, axes = plt.subplots(len(windows), 1, figsize=(7.2, 0.55 * len(windows)))
+    draw_gene_maps(axes, windows, colors, window_kb)
+    fig.legend(handles=family_legend_handles(shared, colors, pfam), loc='upper center', bbox_to_anchor=(0.5, 0.02),
+               ncol=3, frameon=False, fontsize=6.5)
 
     name = f'fig_neighbourhood_top{n}_{"per_genus_" if by == "genus" else ""}{window_kb}kb'
     fig.savefig(FIG / f'{name}.pdf', bbox_inches='tight')
