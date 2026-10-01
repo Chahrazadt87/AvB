@@ -165,4 +165,8 @@ def load_family_pfam():
                 x = line.split()
                 rows.append((x[0], x[3], int(x[19])))
     p = pd.DataFrame(rows, columns=['family', 'pfam', 'start']).sort_values(['family', 'start'])
-    return p.groupby('family').pfam.agg(lambda s: '+'.join(dict.fromkeys(s)))
+    arch = p.groupby('family').pfam.agg(lambda s: '+'.join(dict.fromkeys(s)))
+    # Weak N-terminal hits on the FAD-binding motif (Thi4, FAD_binding_3) come first in the representative;
+    # all members drawn in the gene maps have Amino_oxidase (NCBI: NAD(P)/FAD-dependent oxidoreductase)
+    arch['NZ_MWLL01000155.1_45'] = 'Amino_oxidase'
+    return arch

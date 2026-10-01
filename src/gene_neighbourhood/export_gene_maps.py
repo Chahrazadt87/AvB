@@ -22,9 +22,8 @@ import pandas as pd
 from Bio import SeqIO
 
 sys.path.insert(0, 'src/gene_neighbourhood')
-from make_figures import family_names, gene_map_windows, select_homologs, shared_family_colors
-from make_halobacteria_figure import CLADE
-from make_halobacteria_maps import N_COLORS, N_HOMOLOGS
+from make_figures import family_names, gene_map_windows
+from make_halobacteria_maps import family_colors, select_complete, species_tree
 from neighbourhood import QUERY_GENOME, W, load_family_pfam, load_genes, load_homologs
 
 HMMSEARCH = '/Users/rs1521/miniconda3_x86/bin/hmmsearch'
@@ -190,8 +189,9 @@ if __name__ == '__main__':
     homologs = load_homologs()
     family_pfam = load_family_pfam()
 
-    panels = {'A': select_homologs(homologs, 'species', N_HOMOLOGS, clade=CLADE),
-              'B': select_homologs(homologs, 'genus', N_HOMOLOGS, clade=CLADE)}
+    # Same order as in the figure (GTDB tree)
+    panels = {'A': species_tree(select_complete(homologs, genes, 'species'))[1],
+              'B': species_tree(select_complete(homologs, genes, 'genus'))[1]}
     genomes = pd.concat(panels.values()).genome.unique()
     ncbi = {g: load_annotation(g) for g in genomes}
 
@@ -205,7 +205,7 @@ if __name__ == '__main__':
     for window_kb in WINDOWS_KB:
         windows = {p: gene_map_windows(genes, top, window_kb) for p, top in panels.items()}
         # Same colours (legend entries) as in the figure
-        shared, _ = shared_family_colors(windows['A'] + windows['B'], N_COLORS)
+        shared, _ = family_colors(windows['A'] + windows['B'], genes, window_kb)
         labels = family_names(shared, family_pfam)
         tables = {p: pd.concat([window_table(h, a, c, window_kb, ncbi[h.genome], pfam, lengths, labels, i + 1)
                                 for i, (h, a, c) in enumerate(w)], ignore_index=True)
